@@ -1,0 +1,352 @@
+//request:GET http://47.117.133.51:30015/api/xiaohongshu/get-note-sub-comment/v2?token=rrZQl9kQ&commentId=67e3b63e0000000012031b7e&noteId=67deef0a000000001e001660
+
+
+{
+  "_comment": {
+    "文件用途": "子评论列表接口（get-note-sub-comment v2）响应样例：返回某一级评论下的二级评论列表",
+    "顶层结构": {
+      "code": "返回码，0 表示成功",
+      "data.comments[]": "子评论数组，每一项为一个二级评论"
+    },
+    "重要字段": {
+      "comment.id": "子评论ID",
+      "comment.content": "评论文本内容",
+      "comment.user": "作者用户信息（userid/nickname/images/red_id 等）",
+      "comment.time": "Unix 时间戳（秒级，如 1742987692）",
+      "comment.like_count/liked/downvoted": "点赞数/是否点赞/是否点踩",
+      "comment.collected/hidden/status": "是否收藏/是否隐藏/状态码",
+      "comment.comment_type": "评论类型（0 常见）",
+      "comment.at_users[]": "被 @ 的用户列表",
+      "comment.note_id": "所属笔记ID",
+      "comment.target_comment.id": "父评论ID（该子评论所回复的一级评论）",
+      "comment.target_comment.user": "父评论的作者信息"
+    },
+    "其他": {
+      "biz_label": "业务标签信息（rich_text/product_review/group_invite 等）",
+      "translation_strategy/share_strategy": "翻译策略/分享策略",
+      "show_tags/show_tags_v2": "展示标签"
+    },
+    "备注": "v2 接口的 time 字段为秒级；本注释块仅用于说明，解析时请忽略 _comment 字段。"
+  },
+  "code": 0,
+  "data": {
+    "comments": [
+      {
+        "at_users": [],
+        "liked": false,
+        "time": 1742987692,
+        "show_type": "common",
+        "biz_label": {
+          "group_invite": "false",
+          "rich_text": "unknown",
+          "product_review": false
+        },
+        "downvoted": false,
+        "id": "67e3e1ab000000001e03b500",
+        "score": 0,
+        "status": 0,
+        "user": {
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31djt5nmh0k605nvdfsog84autg24tlg?imageView2/2/w/120/format/jpg",
+          "red_id": "1102278698",
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "5fed7f31000000000100115e",
+          "nickname": "冰火娃向前冲"
+        },
+        "target_comment": {
+          "id": "67e3b63e0000000012031b7e",
+          "status": 0,
+          "user": {
+            "red_id": "294355065",
+            "level": {
+              "image": ""
+            },
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "userid": "5b88b234a76af2000100fb25",
+            "nickname": "用户已注销",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg"
+          }
+        },
+        "collected": false,
+        "share_strategy": 0,
+        "hidden": false,
+        "show_tags": [],
+        "comment_type": 0,
+        "show_tags_v2": [],
+        "translation_strategy": 10,
+        "note_id": "67deef0a000000001e001660",
+        "content": "但它的眼神充满了智慧[大笑R]",
+        "like_count": 7,
+        "friend_liked_msg": ""
+      },
+      {
+        "collected": false,
+        "note_id": "67deef0a000000001e001660",
+        "like_count": 2,
+        "liked": false,
+        "comment_type": 0,
+        "friend_liked_msg": "",
+        "downvoted": false,
+        "id": "67e3e529000000001f003adc",
+        "score": 0,
+        "status": 0,
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "false",
+          "rich_text": "unknown"
+        },
+        "translation_strategy": 10,
+        "at_users": [
+          {
+            "userid": "5f74761e000000000101f929",
+            "nickname": "buleming",
+            "level": {
+              "image": ""
+            },
+            "ai_agent": false
+          },
+          {
+            "nickname": "kikiqi",
+            "level": {
+              "image": ""
+            },
+            "ai_agent": false,
+            "userid": "5f476d3d000000000101d9bd"
+          },
+          {
+            "ai_agent": false,
+            "userid": "624ef429000000001000fe52",
+            "nickname": "晚睡不起",
+            "level": {
+              "image": ""
+            }
+          },
+          {
+            "userid": "5f5e3764000000000101ea1a",
+            "nickname": "起来重睡",
+            "level": {
+              "image": ""
+            },
+            "ai_agent": false
+          }
+        ],
+        "user": {
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "6250f1e8000000001000ef31",
+          "nickname": "早起早睡",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nn06nd652605oigu7k41rphii2s9m8?imageView2/2/w/120/format/jpg",
+          "red_id": "1377941185"
+        },
+        "target_comment": {
+          "id": "67e3b63e0000000012031b7e",
+          "status": 0,
+          "user": {
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "userid": "5b88b234a76af2000100fb25",
+            "nickname": "用户已注销",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg",
+            "red_id": "294355065",
+            "level": {
+              "image": ""
+            }
+          }
+        },
+        "show_type": "common",
+        "content": "@晚睡不起 @起来重睡 @buleming @kikiqi 萌",
+        "hidden": false,
+        "time": 1742988586,
+        "show_tags": [],
+        "show_tags_v2": [],
+        "share_strategy": 0
+      },
+      {
+        "downvoted": false,
+        "share_strategy": 0,
+        "id": "67e3ec870000000012002c76",
+        "note_id": "67deef0a000000001e001660",
+        "like_count": 0,
+        "liked": false,
+        "score": 0,
+        "status": 0,
+        "hidden": false,
+        "show_tags": [],
+        "show_type": "common",
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "false",
+          "rich_text": "unknown"
+        },
+        "translation_strategy": 10,
+        "at_users": [],
+        "collected": false,
+        "show_tags_v2": [],
+        "content": "可爱！！！！",
+        "time": 1742990472,
+        "user": {
+          "level": {
+            "image": ""
+          },
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "5f5e3764000000000101ea1a",
+          "nickname": "起来重睡",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dp2ua8f0m6g5nqu6ti0bqgqg2ekf50?imageView2/2/w/120/format/jpg",
+          "red_id": "248677672"
+        },
+        "target_comment": {
+          "id": "67e3e529000000001f003adc",
+          "status": 0,
+          "user": {
+            "red_id": "1377941185",
+            "level": {
+              "image": ""
+            },
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "userid": "6250f1e8000000001000ef31",
+            "nickname": "早起早睡",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nn06nd652605oigu7k41rphii2s9m8?imageView2/2/w/120/format/jpg"
+          }
+        },
+        "comment_type": 0,
+        "friend_liked_msg": ""
+      },
+      {
+        "translation_strategy": 10,
+        "like_count": 0,
+        "target_comment": {
+          "id": "67e3e529000000001f003adc",
+          "status": 0,
+          "user": {
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false",
+            "userid": "6250f1e8000000001000ef31",
+            "nickname": "早起早睡",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nn06nd652605oigu7k41rphii2s9m8?imageView2/2/w/120/format/jpg",
+            "red_id": "1377941185",
+            "level": {
+              "image": ""
+            }
+          }
+        },
+        "friend_liked_msg": "",
+        "show_tags_v2": [],
+        "user": {
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "5f476d3d000000000101d9bd",
+          "nickname": "kikiqi",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31nrunq7eg6605nq7dkugbmdt1mlropo?imageView2/2/w/120/format/jpg",
+          "red_id": "399342220",
+          "level": {
+            "image": ""
+          }
+        },
+        "show_type": "common",
+        "downvoted": false,
+        "share_strategy": 0,
+        "id": "67e4022f000000001f004727",
+        "note_id": "67deef0a000000001e001660",
+        "score": 0,
+        "status": 0,
+        "show_tags": [],
+        "comment_type": 0,
+        "content": "这样的要被姨姨亲死的[哇R]",
+        "liked": false,
+        "hidden": false,
+        "time": 1742996015,
+        "at_users": [],
+        "biz_label": {
+          "group_invite": "false",
+          "rich_text": "unknown",
+          "product_review": false
+        },
+        "collected": false
+      },
+      {
+        "like_count": 0,
+        "liked": false,
+        "user": {
+          "additional_tags": {},
+          "ai_agent": false,
+          "current_user": "false",
+          "userid": "608a60e600000000010019d0",
+          "nickname": "鑫鑫淼淼-天天好运来版",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31etsfeos6a005o4ac3j086egp6dgphg?imageView2/2/w/120/format/jpg",
+          "red_id": "9479946945",
+          "level": {
+            "image": ""
+          }
+        },
+        "downvoted": false,
+        "content": "@scndxhs",
+        "at_users": [
+          {
+            "userid": "5ebd4b3b0000000001002922",
+            "nickname": "scndxhs",
+            "level": {
+              "image": ""
+            },
+            "ai_agent": false
+          }
+        ],
+        "show_tags_v2": [],
+        "biz_label": {
+          "product_review": false,
+          "group_invite": "false",
+          "rich_text": "true"
+        },
+        "translation_strategy": 10,
+        "collected": false,
+        "share_strategy": 0,
+        "target_comment": {
+          "id": "67e3b63e0000000012031b7e",
+          "status": 0,
+          "user": {
+            "userid": "5b88b234a76af2000100fb25",
+            "nickname": "用户已注销",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg",
+            "red_id": "294355065",
+            "level": {
+              "image": ""
+            },
+            "additional_tags": {},
+            "ai_agent": false,
+            "current_user": "false"
+          }
+        },
+        "comment_type": 0,
+        "show_tags": [],
+        "id": "67f79416000000001200b4b5",
+        "score": 0,
+        "status": 0,
+        "time": 1744278550,
+        "show_type": "common",
+        "friend_liked_msg": "",
+        "note_id": "67deef0a000000001e001660",
+        "hidden": false
+      }
+    ],
+    "has_more": true,
+    "cursor": "{\"cursor\":\"67f79416000000001200b4b5\",\"index\":2}"
+  },
+  "message": null,
+  "recordTime": "2025-11-05T15:44:22.755180537"
+}

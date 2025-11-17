@@ -1,0 +1,3814 @@
+{
+  "模式": "按笔记采集评论",
+  "环境": "中国区",
+  "基础地址": "http://47.117.133.51:30015",
+  "数据": [
+    {
+      "笔记ID": "6877aa37000000002001b0f3",
+      "原始": [
+        {
+          "code": 0,
+          "data": {
+            "comments": [
+              {
+                "sub_comment_count": 37,
+                "user": {
+                  "userid": "56f5e985aed7584d275a3dc4",
+                  "nickname": "只吃菜叶子",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                  "red_id": "dswz1109",
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {},
+                  "ai_agent": false,
+                  "current_user": "false"
+                },
+                "id": "68785e67000000001100eb05",
+                "content": "鼓是短腿打的，毛是黄毛拔的哈哈哈哈哈",
+                "note_id": "6877aa37000000002001b0f3",
+                "sub_comments": [],
+                "time": 1752718951,
+                "comment_type": 0,
+                "like_count": 1019
+              },
+              {
+                "content": "救命[笑哭R]谁的毛打的到处乱飞",
+                "like_count": 12,
+                "sub_comments": [],
+                "note_id": "6877aa37000000002001b0f3",
+                "user": {
+                  "current_user": "false",
+                  "userid": "5a1178e311be105ec41f9679",
+                  "nickname": "甜溜溜的柠檬",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kheci002u6049vn42se75jpjbrs8ro?imageView2/2/w/120/format/jpg",
+                  "red_id": "496669543",
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {},
+                  "ai_agent": false
+                },
+                "comment_type": 0,
+                "sub_comment_count": 3,
+                "time": 1752746663,
+                "id": "6878caa7000000000900e976"
+              },
+              {
+                "time": 1752724045,
+                "user": {
+                  "ai_agent": false,
+                  "current_user": "false",
+                  "userid": "65631bd0000000001103e4a1",
+                  "nickname": "小火柴啦啦啦",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ss3bgb3q4g5pb33f84fp51au3a348?imageView2/2/w/120/format/jpg",
+                  "red_id": "6698510167",
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {}
+                },
+                "content": "下面的怎么只顾着打鼓啊[笑哭R]",
+                "note_id": "6877aa37000000002001b0f3",
+                "sub_comments": [],
+                "id": "6878724c000000000401480c",
+                "sub_comment_count": 5,
+                "comment_type": 0,
+                "like_count": 22
+              },
+              {
+                "sub_comments": [],
+                "time": 1752725858,
+                "like_count": 1834,
+                "comment_type": 2,
+                "content": "真的每一帧暂停都好好笑哈哈哈哈",
+                "note_id": "6877aa37000000002001b0f3",
+                "sub_comment_count": 183,
+                "user": {
+                  "current_user": "false",
+                  "userid": "5e3a767700000000010007a9",
+                  "nickname": "💕珠珠老板💕",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg",
+                  "red_id": "Senlan_gg",
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {},
+                  "ai_agent": false
+                },
+                "media_source_type": 0,
+                "id": "6878795d000000000400951b"
+              },
+              {
+                "id": "687858c90000000015002a6c",
+                "sub_comments": [],
+                "like_count": 10907,
+                "sub_comment_count": 350,
+                "comment_type": 0,
+                "note_id": "6877aa37000000002001b0f3",
+                "content": "我怎么觉得因为地形劣势只有下面那只挨打了呢[笑哭R]",
+                "time": 1752717513,
+                "user": {
+                  "additional_tags": {},
+                  "ai_agent": false,
+                  "current_user": "false",
+                  "userid": "5660d857b8c8b460ab5c718c",
+                  "nickname": "珊珊来迟",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "607699173",
+                  "level": {
+                    "image": ""
+                  }
+                }
+              },
+              {
+                "user": {
+                  "nickname": "晴了个晴",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                  "red_id": "544614167",
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {},
+                  "ai_agent": false,
+                  "current_user": "false",
+                  "userid": "574d0a5d6a6a691f7aaa0ec5"
+                },
+                "like_count": 10,
+                "time": 1752742058,
+                "note_id": "6877aa37000000002001b0f3",
+                "sub_comment_count": 5,
+                "sub_comments": [],
+                "content": "子女不和多是老人无德[微笑R]",
+                "comment_type": 0,
+                "id": "6878b8aa000000000400a2cb"
+              },
+              {
+                "comment_type": 0,
+                "note_id": "6877aa37000000002001b0f3",
+                "content": "这哪是打鼓，这不弹棉花么[笑哭R]掉一地……",
+                "time": 1752729072,
+                "sub_comments": [],
+                "user": {
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {},
+                  "ai_agent": false,
+                  "current_user": "false",
+                  "userid": "56489a24484fb663755adef7",
+                  "nickname": "豆子1230",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pjgg2hr6i0042fegpd29nnn8mr0k0g?imageView2/2/w/120/format/jpg",
+                  "red_id": "159231696"
+                },
+                "id": "687885ef000000000401f606",
+                "like_count": 51,
+                "sub_comment_count": 2
+              },
+              {
+                "content": "不疼吗[石化R]二位",
+                "time": 1752721866,
+                "sub_comments": [],
+                "comment_type": 0,
+                "note_id": "6877aa37000000002001b0f3",
+                "like_count": 1,
+                "sub_comment_count": 5,
+                "id": "687869ca000000000401450d",
+                "user": {
+                  "current_user": "false",
+                  "userid": "5e0b00e300000000010041b5",
+                  "nickname": "我给它苹果",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                  "red_id": "755071842",
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {},
+                  "ai_agent": false
+                }
+              },
+              {
+                "media_source_type": 1,
+                "user": {
+                  "userid": "64bacf320000000014037555",
+                  "nickname": "褪黑素上瘾",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+                  "red_id": "2234213025",
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {},
+                  "ai_agent": false,
+                  "current_user": "false"
+                },
+                "comment_type": 3,
+                "sub_comment_count": 286,
+                "sub_comments": [
+                  {
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 2576,
+                    "comment_type": 0,
+                    "content": "家长一起打[doge]",
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/67bd419fe764ee530bda3ae6.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "535547213",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "56735a67ea3faf77857f92ee",
+                      "nickname": "喵喵面包屋"
+                    },
+                    "id": "6878462a000000000c0262c5",
+                    "target_comment": {
+                      "id": "6877dbdf000000000400cd7d",
+                      "user": {
+                        "userid": "64bacf320000000014037555",
+                        "nickname": "褪黑素上瘾",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+                        "red_id": "2234213025",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false"
+                      }
+                    },
+                    "time": 1752712746
+                  }
+                ],
+                "time": 1752685536,
+                "id": "6877dbdf000000000400cd7d",
+                "note_id": "6877aa37000000002001b0f3",
+                "content": "打得真凶呀，家长不劝架呀",
+                "like_count": 6864
+              },
+              {
+                "sub_comments": [],
+                "content": "以为谁在拍粉底呢[笑哭R]",
+                "sub_comment_count": 204,
+                "user": {
+                  "level": {
+                    "image": ""
+                  },
+                  "additional_tags": {},
+                  "ai_agent": false,
+                  "current_user": "false",
+                  "userid": "56f539bb1c07df2ec55862fc",
+                  "nickname": "kawaibaby👑💎",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "634321262"
+                },
+                "comment_type": 0,
+                "id": "68783a28000000000401a90a",
+                "note_id": "6877aa37000000002001b0f3",
+                "like_count": 3642,
+                "time": 1752709673
+              }
+            ],
+            "has_more": true,
+            "cursor": "{\"cursor\":\"68783a28000000000401a90a\",\"index\":2,\"pageArea\":\"ALL\"}",
+            "all_sort_strategies": [
+              {
+                "type": "default",
+                "optional_name": "默认",
+                "suffix_name": ""
+              },
+              {
+                "suffix_name": "",
+                "type": "latest_v2",
+                "optional_name": "最新"
+              },
+              {
+                "type": "like_count",
+                "optional_name": "最多点赞",
+                "suffix_name": ""
+              }
+            ],
+            "current_sort_strategy": "default",
+            "user_id": "56735a67ea3faf77857f92ee",
+            "comment_count": 13882,
+            "comment_count_l1": 11181
+          },
+          "message": null,
+          "recordTime": "2025-11-07T16:06:11.362037189",
+          "message_cn": "成功"
+        },
+        {
+          "code": 500,
+          "data": null,
+          "message": "SERVER ERROR",
+          "recordTime": null,
+          "message_cn": "内部服务器错误",
+          "error": {
+            "type": "api_error",
+            "path": "/api/xiaohongshu/get-note-comment/v2",
+            "url": "http://47.117.133.51:30015/api/xiaohongshu/get-note-comment/v2?token=rrZQl9kQ&noteId=6877aa37000000002001b0f3&sort=normal&lastCursor=%7B%22cursor%22%3A%2268783a28000000000401a90a%22%2C%22index%22%3A2%2C%22pageArea%22%3A%22ALL%22%7D",
+            "环境": "中国区",
+            "params": {
+              "noteId": "6877aa37000000002001b0f3",
+              "sort": "normal",
+              "lastCursor": "{\"cursor\":\"68783a28000000000401a90a\",\"index\":2,\"pageArea\":\"ALL\"}",
+              "token": "***"
+            },
+            "http_status": 200,
+            "duration_ms": 31,
+            "attempt": 1
+          }
+        }
+      ],
+      "评论": [
+        {
+          "评论ID": "68785e67000000001100eb05",
+          "用户": {
+            "userid": "56f5e985aed7584d275a3dc4",
+            "nickname": "只吃菜叶子",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+            "red_id": "dswz1109",
+            "official_verified": false
+          },
+          "昵称": "只吃菜叶子",
+          "小红书号": "dswz1109",
+          "评论内容": "鼓是短腿打的，毛是黄毛拔的哈哈哈哈哈",
+          "点赞数": 1019,
+          "发布时间": 1752718951,
+          "发布地点": "",
+          "二级评论数": 37,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "687885dc000000000201b42e",
+              "用户": {
+                "nickname": "夏日冰",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j962i6s2u6049ocluhctsnuefosurg?imageView2/2/w/120/format/jpg",
+                "red_id": "603749765",
+                "userid": "599962ce5e87e707473cf2fe",
+                "official_verified": false
+              },
+              "昵称": "夏日冰",
+              "小红书号": "603749765",
+              "评论内容": "下面的一直挨打[捂脸R]",
+              "点赞数": 57,
+              "发布时间": 1752729053,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68785e67000000001100eb05",
+                "用户": {
+                  "nickname": "只吃菜叶子",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                  "red_id": "dswz1109",
+                  "userid": "56f5e985aed7584d275a3dc4"
+                },
+                "昵称": "只吃菜叶子",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68785ec3000000000900f8b0",
+              "用户": {
+                "userid": "615da4d6000000001f03ebd5",
+                "nickname": "果果.（花椒）",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kvd9u7i306g5oatkjb7vqul1rvvgtg?imageView2/2/w/120/format/jpg",
+                "red_id": "1875377266",
+                "official_verified": false
+              },
+              "昵称": "果果.（花椒）",
+              "小红书号": "1875377266",
+              "评论内容": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈[doge]",
+              "点赞数": 4,
+              "发布时间": 1752719044,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68785e67000000001100eb05",
+                "用户": {
+                  "userid": "56f5e985aed7584d275a3dc4",
+                  "nickname": "只吃菜叶子",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                  "red_id": "dswz1109"
+                },
+                "昵称": "只吃菜叶子",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68787927000000000400820a",
+              "用户": {
+                "userid": "5ad1d70911be10072542ac95",
+                "nickname": "她✨",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/644b8d152b3ebad5e52f32d0.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "423183712",
+                "official_verified": false
+              },
+              "昵称": "她✨",
+              "小红书号": "423183712",
+              "评论内容": "@相 哈哈哈哈哈哈",
+              "点赞数": null,
+              "发布时间": 1752725800,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68785e67000000001100eb05",
+                "用户": {
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                  "red_id": "dswz1109",
+                  "userid": "56f5e985aed7584d275a3dc4",
+                  "nickname": "只吃菜叶子"
+                },
+                "昵称": "只吃菜叶子",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68788885000000001101b600",
+              "用户": {
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j09ukq2gs005nj5fl2g84c80edgq90?imageView2/2/w/120/format/jpg",
+                "red_id": "832327416",
+                "userid": "5e657d450000000001001188",
+                "nickname": "AAA黑胡椒研磨机维修【百年老店品质保证",
+                "official_verified": false
+              },
+              "昵称": "AAA黑胡椒研磨机维修【百年老店品质保证",
+              "小红书号": "832327416",
+              "评论内容": "@爱吃点炒米粉 战况激烈",
+              "点赞数": 1,
+              "发布时间": 1752729734,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68785e67000000001100eb05",
+                "用户": {
+                  "userid": "56f5e985aed7584d275a3dc4",
+                  "nickname": "只吃菜叶子",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                  "red_id": "dswz1109"
+                },
+                "昵称": "只吃菜叶子",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68789090000000000c0158db",
+              "用户": {
+                "red_id": "957582895",
+                "userid": "5af9b01d11be104770f080ea",
+                "nickname": "momo（科研暴躁版）",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3198uqbcq56004a5ap2o1r07a5mqo8ko?imageView2/2/w/120/format/jpg",
+                "official_verified": false
+              },
+              "昵称": "momo（科研暴躁版）",
+              "小红书号": "957582895",
+              "评论内容": "看了好几遍才发现 原来bangbang的是短腿打沙发的声音[笑哭R]并不是打在身上的声音[笑哭R]",
+              "点赞数": 19,
+              "发布时间": 1752731792,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68785e67000000001100eb05",
+                "用户": {
+                  "userid": "56f5e985aed7584d275a3dc4",
+                  "nickname": "只吃菜叶子",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                  "red_id": "dswz1109"
+                },
+                "昵称": "只吃菜叶子",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "target_comment": {
+                      "id": "68785e67000000001100eb05",
+                      "user": {
+                        "nickname": "只吃菜叶子",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                        "red_id": "dswz1109",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56f5e985aed7584d275a3dc4"
+                      }
+                    },
+                    "comment_type": 0,
+                    "id": "687885dc000000000201b42e",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 57,
+                    "time": 1752729053,
+                    "user": {
+                      "nickname": "夏日冰",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j962i6s2u6049ocluhctsnuefosurg?imageView2/2/w/120/format/jpg",
+                      "red_id": "603749765",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "599962ce5e87e707473cf2fe"
+                    },
+                    "content": "下面的一直挨打[捂脸R]"
+                  },
+                  {
+                    "note_id": "6877aa37000000002001b0f3",
+                    "target_comment": {
+                      "id": "68785e67000000001100eb05",
+                      "user": {
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56f5e985aed7584d275a3dc4",
+                        "nickname": "只吃菜叶子",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                        "red_id": "dswz1109",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {}
+                      }
+                    },
+                    "user": {
+                      "userid": "615da4d6000000001f03ebd5",
+                      "nickname": "果果.（花椒）",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kvd9u7i306g5oatkjb7vqul1rvvgtg?imageView2/2/w/120/format/jpg",
+                      "red_id": "1875377266",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false"
+                    },
+                    "id": "68785ec3000000000900f8b0",
+                    "like_count": 4,
+                    "time": 1752719044,
+                    "comment_type": 0,
+                    "content": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈[doge]"
+                  },
+                  {
+                    "user": {
+                      "userid": "5ad1d70911be10072542ac95",
+                      "nickname": "她✨",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/644b8d152b3ebad5e52f32d0.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "423183712",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false"
+                    },
+                    "content": "@相 哈哈哈哈哈哈",
+                    "like_count": 0,
+                    "id": "68787927000000000400820a",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "target_comment": {
+                      "user": {
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                        "red_id": "dswz1109",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56f5e985aed7584d275a3dc4",
+                        "nickname": "只吃菜叶子"
+                      },
+                      "id": "68785e67000000001100eb05"
+                    },
+                    "comment_type": 0,
+                    "time": 1752725800
+                  },
+                  {
+                    "content": "@爱吃点炒米粉 战况激烈",
+                    "time": 1752729734,
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31j09ukq2gs005nj5fl2g84c80edgq90?imageView2/2/w/120/format/jpg",
+                      "red_id": "832327416",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5e657d450000000001001188",
+                      "nickname": "AAA黑胡椒研磨机维修【百年老店品质保证"
+                    },
+                    "id": "68788885000000001101b600",
+                    "like_count": 1,
+                    "comment_type": 0,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "target_comment": {
+                      "id": "68785e67000000001100eb05",
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56f5e985aed7584d275a3dc4",
+                        "nickname": "只吃菜叶子",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                        "red_id": "dswz1109",
+                        "level": {
+                          "image": ""
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "user": {
+                      "red_id": "957582895",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5af9b01d11be104770f080ea",
+                      "nickname": "momo（科研暴躁版）",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3198uqbcq56004a5ap2o1r07a5mqo8ko?imageView2/2/w/120/format/jpg"
+                    },
+                    "target_comment": {
+                      "id": "68785e67000000001100eb05",
+                      "user": {
+                        "userid": "56f5e985aed7584d275a3dc4",
+                        "nickname": "只吃菜叶子",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31arq919hmu4047d1pakoafe4e6i76fo?imageView2/2/w/120/format/jpg",
+                        "red_id": "dswz1109",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false"
+                      }
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 19,
+                    "time": 1752731792,
+                    "comment_type": 0,
+                    "id": "68789090000000000c0158db",
+                    "content": "看了好几遍才发现 原来bangbang的是短腿打沙发的声音[笑哭R]并不是打在身上的声音[笑哭R]"
+                  }
+                ],
+                "has_more": true,
+                "cursor": "{\"cursor\":\"68789090000000000c0158db\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:13.423668863",
+              "message_cn": "成功"
+            },
+            {
+              "code": 500,
+              "data": null,
+              "message": "SERVER ERROR",
+              "recordTime": null,
+              "message_cn": "内部服务器错误",
+              "error": {
+                "type": "api_error",
+                "path": "/api/xiaohongshu/get-note-sub-comment/v2",
+                "url": "http://47.117.133.51:30015/api/xiaohongshu/get-note-sub-comment/v2?token=rrZQl9kQ&noteId=6877aa37000000002001b0f3&commentId=68785e67000000001100eb05&lastCursor=%7B%22cursor%22%3A%2268789090000000000c0158db%22%2C%22index%22%3A2%7D",
+                "环境": "中国区",
+                "params": {
+                  "noteId": "6877aa37000000002001b0f3",
+                  "commentId": "68785e67000000001100eb05",
+                  "lastCursor": "{\"cursor\":\"68789090000000000c0158db\",\"index\":2}",
+                  "token": "***"
+                },
+                "http_status": 200,
+                "duration_ms": 26,
+                "attempt": 1
+              }
+            }
+          ]
+        },
+        {
+          "评论ID": "6878caa7000000000900e976",
+          "用户": {
+            "userid": "5a1178e311be105ec41f9679",
+            "nickname": "甜溜溜的柠檬",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kheci002u6049vn42se75jpjbrs8ro?imageView2/2/w/120/format/jpg",
+            "red_id": "496669543",
+            "official_verified": false
+          },
+          "昵称": "甜溜溜的柠檬",
+          "小红书号": "496669543",
+          "评论内容": "救命[笑哭R]谁的毛打的到处乱飞",
+          "点赞数": 12,
+          "发布时间": 1752746663,
+          "发布地点": "",
+          "二级评论数": 3,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "6878cbbf0000000009016c47",
+              "用户": {
+                "red_id": "94178626238",
+                "userid": "67e7ecc0000000000a03fc88",
+                "nickname": "伄戼",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gkb51lvjqcg5pv7tj02nv48krargq0?imageView2/2/w/120/format/jpg",
+                "official_verified": false
+              },
+              "昵称": "伄戼",
+              "小红书号": "94178626238",
+              "评论内容": "飞的全是白毛，你觉得呢",
+              "点赞数": 7,
+              "发布时间": 1752746943,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878caa7000000000900e976",
+                "用户": {
+                  "userid": "5a1178e311be105ec41f9679",
+                  "nickname": "甜溜溜的柠檬",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kheci002u6049vn42se75jpjbrs8ro?imageView2/2/w/120/format/jpg",
+                  "red_id": "496669543"
+                },
+                "昵称": "甜溜溜的柠檬",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6878cc12000000000901467e",
+              "用户": {
+                "userid": "5a1178e311be105ec41f9679",
+                "nickname": "甜溜溜的柠檬",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kheci002u6049vn42se75jpjbrs8ro?imageView2/2/w/120/format/jpg",
+                "red_id": "496669543",
+                "official_verified": false
+              },
+              "昵称": "甜溜溜的柠檬",
+              "小红书号": "496669543",
+              "评论内容": "[笑哭R]太惨了，毫无还手之力",
+              "点赞数": 1,
+              "发布时间": 1752747027,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878cbbf0000000009016c47",
+                "用户": {
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gkb51lvjqcg5pv7tj02nv48krargq0?imageView2/2/w/120/format/jpg",
+                  "red_id": "94178626238",
+                  "userid": "67e7ecc0000000000a03fc88",
+                  "nickname": "伄戼"
+                },
+                "昵称": "伄戼",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6878d3bf00000000010201b7",
+              "用户": {
+                "userid": "67e7ecc0000000000a03fc88",
+                "nickname": "伄戼",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gkb51lvjqcg5pv7tj02nv48krargq0?imageView2/2/w/120/format/jpg",
+                "red_id": "94178626238",
+                "official_verified": false
+              },
+              "昵称": "伄戼",
+              "小红书号": "94178626238",
+              "评论内容": "手短还没有地利，惨上加惨",
+              "点赞数": null,
+              "发布时间": 1752748991,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878cc12000000000901467e",
+                "用户": {
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kheci002u6049vn42se75jpjbrs8ro?imageView2/2/w/120/format/jpg",
+                  "red_id": "496669543",
+                  "userid": "5a1178e311be105ec41f9679",
+                  "nickname": "甜溜溜的柠檬"
+                },
+                "昵称": "甜溜溜的柠檬",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "time": 1752746943,
+                    "id": "6878cbbf0000000009016c47",
+                    "like_count": 7,
+                    "comment_type": 0,
+                    "user": {
+                      "red_id": "94178626238",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "67e7ecc0000000000a03fc88",
+                      "nickname": "伄戼",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gkb51lvjqcg5pv7tj02nv48krargq0?imageView2/2/w/120/format/jpg"
+                    },
+                    "target_comment": {
+                      "id": "6878caa7000000000900e976",
+                      "user": {
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5a1178e311be105ec41f9679",
+                        "nickname": "甜溜溜的柠檬",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kheci002u6049vn42se75jpjbrs8ro?imageView2/2/w/120/format/jpg",
+                        "red_id": "496669543"
+                      }
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "飞的全是白毛，你觉得呢"
+                  },
+                  {
+                    "target_comment": {
+                      "id": "6878cbbf0000000009016c47",
+                      "user": {
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gkb51lvjqcg5pv7tj02nv48krargq0?imageView2/2/w/120/format/jpg",
+                        "red_id": "94178626238",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "67e7ecc0000000000a03fc88",
+                        "nickname": "伄戼"
+                      }
+                    },
+                    "comment_type": 0,
+                    "id": "6878cc12000000000901467e",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "[笑哭R]太惨了，毫无还手之力",
+                    "user": {
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5a1178e311be105ec41f9679",
+                      "nickname": "甜溜溜的柠檬",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kheci002u6049vn42se75jpjbrs8ro?imageView2/2/w/120/format/jpg",
+                      "red_id": "496669543",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {}
+                    },
+                    "like_count": 1,
+                    "time": 1752747027
+                  },
+                  {
+                    "content": "手短还没有地利，惨上加惨",
+                    "target_comment": {
+                      "user": {
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kheci002u6049vn42se75jpjbrs8ro?imageView2/2/w/120/format/jpg",
+                        "red_id": "496669543",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5a1178e311be105ec41f9679",
+                        "nickname": "甜溜溜的柠檬"
+                      },
+                      "id": "6878cc12000000000901467e"
+                    },
+                    "user": {
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "67e7ecc0000000000a03fc88",
+                      "nickname": "伄戼",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gkb51lvjqcg5pv7tj02nv48krargq0?imageView2/2/w/120/format/jpg",
+                      "red_id": "94178626238"
+                    },
+                    "comment_type": 0,
+                    "id": "6878d3bf00000000010201b7",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 0,
+                    "time": 1752748991
+                  }
+                ],
+                "has_more": false,
+                "cursor": "{\"cursor\":\"6878d3bf00000000010201b7\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:15.484567258",
+              "message_cn": "成功"
+            }
+          ]
+        },
+        {
+          "评论ID": "6878724c000000000401480c",
+          "用户": {
+            "userid": "65631bd0000000001103e4a1",
+            "nickname": "小火柴啦啦啦",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ss3bgb3q4g5pb33f84fp51au3a348?imageView2/2/w/120/format/jpg",
+            "red_id": "6698510167",
+            "official_verified": false
+          },
+          "昵称": "小火柴啦啦啦",
+          "小红书号": "6698510167",
+          "评论内容": "下面的怎么只顾着打鼓啊[笑哭R]",
+          "点赞数": 22,
+          "发布时间": 1752724045,
+          "发布地点": "",
+          "二级评论数": 5,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "687872890000000009017c9e",
+              "用户": {
+                "userid": "61217e780000000001003595",
+                "nickname": "Melissa",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/63d0ad11904bb17aa58834f7.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "4225449968",
+                "official_verified": false
+              },
+              "昵称": "Melissa",
+              "小红书号": "4225449968",
+              "评论内容": "她是矮脚猫 手短啊 可怜的受气包[偷笑R]",
+              "点赞数": 6,
+              "发布时间": 1752724106,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878724c000000000401480c",
+                "用户": {
+                  "userid": "65631bd0000000001103e4a1",
+                  "nickname": "小火柴啦啦啦",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ss3bgb3q4g5pb33f84fp51au3a348?imageView2/2/w/120/format/jpg",
+                  "red_id": "6698510167"
+                },
+                "昵称": "小火柴啦啦啦",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68822a8c000000000201ac24",
+              "用户": {
+                "red_id": "723338214",
+                "userid": "5d0613c9000000001202615d",
+                "nickname": "乔八万",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2oq36sn6k806g5n862f4kkoat0u522bg?imageView2/2/w/120/format/jpg",
+                "official_verified": false
+              },
+              "昵称": "乔八万",
+              "小红书号": "723338214",
+              "评论内容": "@拽拽小考神 [笑哭了R]",
+              "点赞数": null,
+              "发布时间": 1753361037,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687872890000000009017c9e",
+                "用户": {
+                  "red_id": "4225449968",
+                  "userid": "61217e780000000001003595",
+                  "nickname": "Melissa",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/63d0ad11904bb17aa58834f7.jpg?imageView2/2/w/120/format/jpg"
+                },
+                "昵称": "Melissa",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68833b79000000001a02b6a6",
+              "用户": {
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/64705e9b58a4b43ebb200989.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "3863919233",
+                "userid": "62e37f1d000000001f007101",
+                "nickname": "千颂伊",
+                "official_verified": false
+              },
+              "昵称": "千颂伊",
+              "小红书号": "3863919233",
+              "评论内容": "@Sara舒朗 [嘻嘻R][嘻嘻R]",
+              "点赞数": null,
+              "发布时间": 1753430906,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878724c000000000401480c",
+                "用户": {
+                  "nickname": "小火柴啦啦啦",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ss3bgb3q4g5pb33f84fp51au3a348?imageView2/2/w/120/format/jpg",
+                  "red_id": "6698510167",
+                  "userid": "65631bd0000000001103e4a1"
+                },
+                "昵称": "小火柴啦啦啦",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6891d724000000002a007ef5",
+              "用户": {
+                "userid": "5df5986f00000000010065c2",
+                "nickname": "夏日缤纷ice cream🍦",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/61eea894a1b9bac71f621737.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "660850789",
+                "official_verified": false
+              },
+              "昵称": "夏日缤纷ice cream🍦",
+              "小红书号": "660850789",
+              "评论内容": "@魔法兔子美乐蒂 @小熊777 @🤡 [笑哭R]",
+              "点赞数": null,
+              "发布时间": 1754388260,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878724c000000000401480c",
+                "用户": {
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ss3bgb3q4g5pb33f84fp51au3a348?imageView2/2/w/120/format/jpg",
+                  "red_id": "6698510167",
+                  "userid": "65631bd0000000001103e4a1",
+                  "nickname": "小火柴啦啦啦"
+                },
+                "昵称": "小火柴啦啦啦",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6891e8ba000000002b01b115",
+              "用户": {
+                "userid": "5b126163e8ac2b32a01cf9f5",
+                "nickname": "魔法兔子美乐蒂",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316oqpdo742004a5sa8gm7uflmmj5eeg?imageView2/2/w/120/format/jpg",
+                "red_id": "182766606",
+                "official_verified": false
+              },
+              "昵称": "魔法兔子美乐蒂",
+              "小红书号": "182766606",
+              "评论内容": "空气中飘的全是白毛[笑哭R]就知道是谁在挨打了",
+              "点赞数": null,
+              "发布时间": 1754392763,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6891d724000000002a007ef5",
+                "用户": {
+                  "userid": "5df5986f00000000010065c2",
+                  "nickname": "夏日缤纷ice cream🍦",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/61eea894a1b9bac71f621737.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "660850789"
+                },
+                "昵称": "夏日缤纷ice cream🍦",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "user": {
+                      "userid": "61217e780000000001003595",
+                      "nickname": "Melissa",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/63d0ad11904bb17aa58834f7.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "4225449968",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false"
+                    },
+                    "target_comment": {
+                      "user": {
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "65631bd0000000001103e4a1",
+                        "nickname": "小火柴啦啦啦",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ss3bgb3q4g5pb33f84fp51au3a348?imageView2/2/w/120/format/jpg",
+                        "red_id": "6698510167"
+                      },
+                      "id": "6878724c000000000401480c"
+                    },
+                    "comment_type": 0,
+                    "time": 1752724106,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "她是矮脚猫 手短啊 可怜的受气包[偷笑R]",
+                    "like_count": 6,
+                    "id": "687872890000000009017c9e"
+                  },
+                  {
+                    "id": "68822a8c000000000201ac24",
+                    "content": "@拽拽小考神 [笑哭了R]",
+                    "target_comment": {
+                      "user": {
+                        "red_id": "4225449968",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "61217e780000000001003595",
+                        "nickname": "Melissa",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/63d0ad11904bb17aa58834f7.jpg?imageView2/2/w/120/format/jpg"
+                      },
+                      "id": "687872890000000009017c9e"
+                    },
+                    "like_count": 0,
+                    "user": {
+                      "red_id": "723338214",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5d0613c9000000001202615d",
+                      "nickname": "乔八万",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2oq36sn6k806g5n862f4kkoat0u522bg?imageView2/2/w/120/format/jpg"
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "comment_type": 0,
+                    "time": 1753361037
+                  },
+                  {
+                    "target_comment": {
+                      "id": "6878724c000000000401480c",
+                      "user": {
+                        "nickname": "小火柴啦啦啦",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ss3bgb3q4g5pb33f84fp51au3a348?imageView2/2/w/120/format/jpg",
+                        "red_id": "6698510167",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "65631bd0000000001103e4a1"
+                      }
+                    },
+                    "content": "@Sara舒朗 [嘻嘻R][嘻嘻R]",
+                    "time": 1753430906,
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/64705e9b58a4b43ebb200989.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "3863919233",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "62e37f1d000000001f007101",
+                      "nickname": "千颂伊"
+                    },
+                    "id": "68833b79000000001a02b6a6",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 0,
+                    "comment_type": 0
+                  },
+                  {
+                    "note_id": "6877aa37000000002001b0f3",
+                    "user": {
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5df5986f00000000010065c2",
+                      "nickname": "夏日缤纷ice cream🍦",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/61eea894a1b9bac71f621737.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "660850789"
+                    },
+                    "id": "6891d724000000002a007ef5",
+                    "like_count": 0,
+                    "content": "@魔法兔子美乐蒂 @小熊777 @🤡 [笑哭R]",
+                    "comment_type": 0,
+                    "time": 1754388260,
+                    "target_comment": {
+                      "id": "6878724c000000000401480c",
+                      "user": {
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316ss3bgb3q4g5pb33f84fp51au3a348?imageView2/2/w/120/format/jpg",
+                        "red_id": "6698510167",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "65631bd0000000001103e4a1",
+                        "nickname": "小火柴啦啦啦"
+                      }
+                    }
+                  },
+                  {
+                    "id": "6891e8ba000000002b01b115",
+                    "like_count": 0,
+                    "target_comment": {
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5df5986f00000000010065c2",
+                        "nickname": "夏日缤纷ice cream🍦",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/61eea894a1b9bac71f621737.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "660850789",
+                        "level": {
+                          "image": ""
+                        }
+                      },
+                      "id": "6891d724000000002a007ef5"
+                    },
+                    "comment_type": 0,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "空气中飘的全是白毛[笑哭R]就知道是谁在挨打了",
+                    "time": 1754392763,
+                    "user": {
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5b126163e8ac2b32a01cf9f5",
+                      "nickname": "魔法兔子美乐蒂",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo316oqpdo742004a5sa8gm7uflmmj5eeg?imageView2/2/w/120/format/jpg",
+                      "red_id": "182766606",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {}
+                    }
+                  }
+                ],
+                "has_more": false,
+                "cursor": "{\"cursor\":\"6891e8ba000000002b01b115\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:16.756402844",
+              "message_cn": "成功"
+            }
+          ]
+        },
+        {
+          "评论ID": "6878795d000000000400951b",
+          "用户": {
+            "userid": "5e3a767700000000010007a9",
+            "nickname": "💕珠珠老板💕",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg",
+            "red_id": "Senlan_gg",
+            "official_verified": false
+          },
+          "昵称": "💕珠珠老板💕",
+          "小红书号": "Senlan_gg",
+          "评论内容": "真的每一帧暂停都好好笑哈哈哈哈",
+          "点赞数": 1834,
+          "发布时间": 1752725858,
+          "发布地点": "",
+          "二级评论数": 183,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "687879e60000000004008134",
+              "用户": {
+                "userid": "54832f08e779895b7618e372",
+                "nickname": "momo",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo312v923l46400400qc7nghoriociafio?imageView2/2/w/120/format/jpg",
+                "red_id": "384795567",
+                "official_verified": false
+              },
+              "昵称": "momo",
+              "小红书号": "384795567",
+              "评论内容": "下面的这只尽挨揍了[笑哭R]",
+              "点赞数": 185,
+              "发布时间": 1752725990,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878795d000000000400951b",
+                "用户": {
+                  "red_id": "Senlan_gg",
+                  "userid": "5e3a767700000000010007a9",
+                  "nickname": "💕珠珠老板💕",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg"
+                },
+                "昵称": "💕珠珠老板💕",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68788469000000001100c348",
+              "用户": {
+                "userid": "5f478b17000000000100bd7b",
+                "nickname": "momo",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jkr059a2a005nq7hcbg9fbrkfjq9oo?imageView2/2/w/120/format/jpg",
+                "red_id": "399320970",
+                "official_verified": false
+              },
+              "昵称": "momo",
+              "小红书号": "399320970",
+              "评论内容": "哈哈哈哈哈哈哈哈",
+              "点赞数": 11,
+              "发布时间": 1752728683,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878795d000000000400951b",
+                "用户": {
+                  "userid": "5e3a767700000000010007a9",
+                  "nickname": "💕珠珠老板💕",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg",
+                  "red_id": "Senlan_gg"
+                },
+                "昵称": "💕珠珠老板💕",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "687886ff00000000020193e4",
+              "用户": {
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3131tevdi6o005ngdhp8090nboab6tv8?imageView2/2/w/120/format/jpg",
+                "red_id": "755861636",
+                "userid": "5e0d8e5000000000010082eb",
+                "nickname": "不加糖",
+                "official_verified": false
+              },
+              "昵称": "不加糖",
+              "小红书号": "755861636",
+              "评论内容": "[笑哭R]真没打到",
+              "点赞数": 5,
+              "发布时间": 1752729344,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878795d000000000400951b",
+                "用户": {
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg",
+                  "red_id": "Senlan_gg",
+                  "userid": "5e3a767700000000010007a9",
+                  "nickname": "💕珠珠老板💕"
+                },
+                "昵称": "💕珠珠老板💕",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6878884d000000000c02521e",
+              "用户": {
+                "userid": "5c31e71e000000000601a7ed",
+                "nickname": "🦄Unicorn💕",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/5e27e5ed9dd8700001e6ea2c.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "500561826",
+                "official_verified": false
+              },
+              "昵称": "🦄Unicorn💕",
+              "小红书号": "500561826",
+              "评论内容": "@家有dong猫 @不想上班",
+              "点赞数": 1,
+              "发布时间": 1752729678,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878795d000000000400951b",
+                "用户": {
+                  "userid": "5e3a767700000000010007a9",
+                  "nickname": "💕珠珠老板💕",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg",
+                  "red_id": "Senlan_gg"
+                },
+                "昵称": "💕珠珠老板💕",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6878895d000000001100cda6",
+              "用户": {
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/64ccd5f6bc673414ffc0545a.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "126085756",
+                "userid": "5dd9efa20000000001006cc0",
+                "nickname": "呜哇哇哇~",
+                "official_verified": false
+              },
+              "昵称": "呜哇哇哇~",
+              "小红书号": "126085756",
+              "评论内容": "可怜",
+              "点赞数": null,
+              "发布时间": 1752729950,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878884d000000000c02521e",
+                "用户": {
+                  "userid": "5c31e71e000000000601a7ed",
+                  "nickname": "🦄Unicorn💕",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/5e27e5ed9dd8700001e6ea2c.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "500561826"
+                },
+                "昵称": "🦄Unicorn💕",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "user": {
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "54832f08e779895b7618e372",
+                      "nickname": "momo",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo312v923l46400400qc7nghoriociafio?imageView2/2/w/120/format/jpg",
+                      "red_id": "384795567",
+                      "level": {
+                        "image": ""
+                      }
+                    },
+                    "id": "687879e60000000004008134",
+                    "target_comment": {
+                      "id": "6878795d000000000400951b",
+                      "user": {
+                        "red_id": "Senlan_gg",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5e3a767700000000010007a9",
+                        "nickname": "💕珠珠老板💕",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg"
+                      }
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "comment_type": 0,
+                    "content": "下面的这只尽挨揍了[笑哭R]",
+                    "like_count": 185,
+                    "time": 1752725990
+                  },
+                  {
+                    "id": "68788469000000001100c348",
+                    "media_source_type": 1,
+                    "content": "哈哈哈哈哈哈哈哈",
+                    "like_count": 11,
+                    "time": 1752728683,
+                    "target_comment": {
+                      "id": "6878795d000000000400951b",
+                      "user": {
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5e3a767700000000010007a9",
+                        "nickname": "💕珠珠老板💕",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg",
+                        "red_id": "Senlan_gg",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {}
+                      }
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "user": {
+                      "current_user": "false",
+                      "userid": "5f478b17000000000100bd7b",
+                      "nickname": "momo",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31jkr059a2a005nq7hcbg9fbrkfjq9oo?imageView2/2/w/120/format/jpg",
+                      "red_id": "399320970",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false
+                    },
+                    "comment_type": 3
+                  },
+                  {
+                    "id": "687886ff00000000020193e4",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "[笑哭R]真没打到",
+                    "like_count": 5,
+                    "target_comment": {
+                      "id": "6878795d000000000400951b",
+                      "user": {
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg",
+                        "red_id": "Senlan_gg",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5e3a767700000000010007a9",
+                        "nickname": "💕珠珠老板💕"
+                      }
+                    },
+                    "time": 1752729344,
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3131tevdi6o005ngdhp8090nboab6tv8?imageView2/2/w/120/format/jpg",
+                      "red_id": "755861636",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5e0d8e5000000000010082eb",
+                      "nickname": "不加糖"
+                    },
+                    "comment_type": 0
+                  },
+                  {
+                    "note_id": "6877aa37000000002001b0f3",
+                    "time": 1752729678,
+                    "user": {
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5c31e71e000000000601a7ed",
+                      "nickname": "🦄Unicorn💕",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/5e27e5ed9dd8700001e6ea2c.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "500561826",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {}
+                    },
+                    "comment_type": 0,
+                    "id": "6878884d000000000c02521e",
+                    "content": "@家有dong猫 @不想上班",
+                    "like_count": 1,
+                    "target_comment": {
+                      "id": "6878795d000000000400951b",
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5e3a767700000000010007a9",
+                        "nickname": "💕珠珠老板💕",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318qkim9ojq005nhqeprg81t9lmoagg8?imageView2/2/w/120/format/jpg",
+                        "red_id": "Senlan_gg",
+                        "level": {
+                          "image": ""
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 0,
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/64ccd5f6bc673414ffc0545a.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "126085756",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5dd9efa20000000001006cc0",
+                      "nickname": "呜哇哇哇~"
+                    },
+                    "target_comment": {
+                      "id": "6878884d000000000c02521e",
+                      "user": {
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5c31e71e000000000601a7ed",
+                        "nickname": "🦄Unicorn💕",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/5e27e5ed9dd8700001e6ea2c.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "500561826"
+                      }
+                    },
+                    "comment_type": 0,
+                    "id": "6878895d000000001100cda6",
+                    "content": "可怜",
+                    "time": 1752729950
+                  }
+                ],
+                "has_more": true,
+                "cursor": "{\"cursor\":\"6878895d000000001100cda6\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:18.138721034",
+              "message_cn": "成功"
+            },
+            {
+              "code": 500,
+              "data": null,
+              "message": "SERVER ERROR",
+              "recordTime": null,
+              "message_cn": "内部服务器错误",
+              "error": {
+                "type": "api_error",
+                "path": "/api/xiaohongshu/get-note-sub-comment/v2",
+                "url": "http://47.117.133.51:30015/api/xiaohongshu/get-note-sub-comment/v2?token=rrZQl9kQ&noteId=6877aa37000000002001b0f3&commentId=6878795d000000000400951b&lastCursor=%7B%22cursor%22%3A%226878895d000000001100cda6%22%2C%22index%22%3A2%7D",
+                "环境": "中国区",
+                "params": {
+                  "noteId": "6877aa37000000002001b0f3",
+                  "commentId": "6878795d000000000400951b",
+                  "lastCursor": "{\"cursor\":\"6878895d000000001100cda6\",\"index\":2}",
+                  "token": "***"
+                },
+                "http_status": 200,
+                "duration_ms": 29,
+                "attempt": 1
+              }
+            }
+          ]
+        },
+        {
+          "评论ID": "687858c90000000015002a6c",
+          "用户": {
+            "userid": "5660d857b8c8b460ab5c718c",
+            "nickname": "珊珊来迟",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+            "red_id": "607699173",
+            "official_verified": false
+          },
+          "昵称": "珊珊来迟",
+          "小红书号": "607699173",
+          "评论内容": "我怎么觉得因为地形劣势只有下面那只挨打了呢[笑哭R]",
+          "点赞数": 10907,
+          "发布时间": 1752717513,
+          "发布地点": "",
+          "二级评论数": 350,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "687860ad000000000401ca1c",
+              "用户": {
+                "userid": "556efccbf5a26331bcb6b794",
+                "nickname": "天空的小象",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317v04m3k4a6040np5vucndskgs204g8?imageView2/2/w/120/format/jpg",
+                "red_id": "180731603",
+                "official_verified": false
+              },
+              "昵称": "天空的小象",
+              "小红书号": "180731603",
+              "评论内容": "是的，下面那只光敲沙发了[捂脸R]",
+              "点赞数": 1226,
+              "发布时间": 1752719533,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687858c90000000015002a6c",
+                "用户": {
+                  "userid": "5660d857b8c8b460ab5c718c",
+                  "nickname": "珊珊来迟",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "607699173"
+                },
+                "昵称": "珊珊来迟",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6878649e000000001101b2ca",
+              "用户": {
+                "userid": "5e3b90140000000001006256",
+                "nickname": "最叻系你",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/61148909b5117a9923f483e4.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "570673621",
+                "official_verified": false
+              },
+              "昵称": "最叻系你",
+              "小红书号": "570673621",
+              "评论内容": "是的 所以高打低打儿子",
+              "点赞数": 70,
+              "发布时间": 1752720543,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687858c90000000015002a6c",
+                "用户": {
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "607699173",
+                  "userid": "5660d857b8c8b460ab5c718c",
+                  "nickname": "珊珊来迟"
+                },
+                "昵称": "珊珊来迟",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6878655e000000000c025038",
+              "用户": {
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/5b657edde8ac2b31f0194b00.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "604285482",
+                "userid": "5b657edde8ac2b31f0194b00",
+                "nickname": "月亮兔",
+                "official_verified": false
+              },
+              "昵称": "月亮兔",
+              "小红书号": "604285482",
+              "评论内容": "因为是矮脚猫攻击力为零[哭惹R]",
+              "点赞数": 13,
+              "发布时间": 1752720735,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687858c90000000015002a6c",
+                "用户": {
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "607699173",
+                  "userid": "5660d857b8c8b460ab5c718c",
+                  "nickname": "珊珊来迟"
+                },
+                "昵称": "珊珊来迟",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "687866a2000000000f03d194",
+              "用户": {
+                "userid": "5fcdbbf20000000001008244",
+                "nickname": "H1ddeN",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mk44k5sks6g5nudnfp090i4ju4aap0?imageView2/2/w/120/format/jpg",
+                "red_id": "1083628851",
+                "official_verified": false
+              },
+              "昵称": "H1ddeN",
+              "小红书号": "1083628851",
+              "评论内容": "高打低 打**[偷笑R]",
+              "点赞数": 1,
+              "发布时间": 1752721059,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687858c90000000015002a6c",
+                "用户": {
+                  "userid": "5660d857b8c8b460ab5c718c",
+                  "nickname": "珊珊来迟",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "607699173"
+                },
+                "昵称": "珊珊来迟",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "687868a0000000000900dae3",
+              "用户": {
+                "userid": "57a749fb82ec3911233dc3db",
+                "nickname": "公主请发财ss",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318me4l0a3u0048ke7p4vngurf4lv83g?imageView2/2/w/120/format/jpg",
+                "red_id": "239385065",
+                "official_verified": false
+              },
+              "昵称": "公主请发财ss",
+              "小红书号": "239385065",
+              "评论内容": "地形劣势被打但不怂[偷笑R]",
+              "点赞数": 6,
+              "发布时间": 1752721568,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687858c90000000015002a6c",
+                "用户": {
+                  "red_id": "607699173",
+                  "userid": "5660d857b8c8b460ab5c718c",
+                  "nickname": "珊珊来迟",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg"
+                },
+                "昵称": "珊珊来迟",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "comment_type": 0,
+                    "target_comment": {
+                      "user": {
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5660d857b8c8b460ab5c718c",
+                        "nickname": "珊珊来迟",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "607699173"
+                      },
+                      "id": "687858c90000000015002a6c"
+                    },
+                    "user": {
+                      "userid": "556efccbf5a26331bcb6b794",
+                      "nickname": "天空的小象",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317v04m3k4a6040np5vucndskgs204g8?imageView2/2/w/120/format/jpg",
+                      "red_id": "180731603",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false"
+                    },
+                    "id": "687860ad000000000401ca1c",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "time": 1752719533,
+                    "content": "是的，下面那只光敲沙发了[捂脸R]",
+                    "like_count": 1226
+                  },
+                  {
+                    "comment_type": 0,
+                    "content": "是的 所以高打低打儿子",
+                    "time": 1752720543,
+                    "user": {
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5e3b90140000000001006256",
+                      "nickname": "最叻系你",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/61148909b5117a9923f483e4.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "570673621"
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "target_comment": {
+                      "id": "687858c90000000015002a6c",
+                      "user": {
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "607699173",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5660d857b8c8b460ab5c718c",
+                        "nickname": "珊珊来迟"
+                      }
+                    },
+                    "id": "6878649e000000001101b2ca",
+                    "like_count": 70
+                  },
+                  {
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/5b657edde8ac2b31f0194b00.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "604285482",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5b657edde8ac2b31f0194b00",
+                      "nickname": "月亮兔"
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 13,
+                    "comment_type": 0,
+                    "id": "6878655e000000000c025038",
+                    "content": "因为是矮脚猫攻击力为零[哭惹R]",
+                    "time": 1752720735,
+                    "target_comment": {
+                      "id": "687858c90000000015002a6c",
+                      "user": {
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "607699173",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5660d857b8c8b460ab5c718c",
+                        "nickname": "珊珊来迟"
+                      }
+                    }
+                  },
+                  {
+                    "user": {
+                      "userid": "5fcdbbf20000000001008244",
+                      "nickname": "H1ddeN",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mk44k5sks6g5nudnfp090i4ju4aap0?imageView2/2/w/120/format/jpg",
+                      "red_id": "1083628851",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false"
+                    },
+                    "id": "687866a2000000000f03d194",
+                    "time": 1752721059,
+                    "content": "高打低 打**[偷笑R]",
+                    "like_count": 1,
+                    "target_comment": {
+                      "id": "687858c90000000015002a6c",
+                      "user": {
+                        "current_user": "false",
+                        "userid": "5660d857b8c8b460ab5c718c",
+                        "nickname": "珊珊来迟",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "607699173",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false
+                      }
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "comment_type": 0
+                  },
+                  {
+                    "target_comment": {
+                      "user": {
+                        "red_id": "607699173",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5660d857b8c8b460ab5c718c",
+                        "nickname": "珊珊来迟",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/6550875abab5700111178dde.jpg?imageView2/2/w/120/format/jpg"
+                      },
+                      "id": "687858c90000000015002a6c"
+                    },
+                    "comment_type": 0,
+                    "id": "687868a0000000000900dae3",
+                    "time": 1752721568,
+                    "content": "地形劣势被打但不怂[偷笑R]",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 6,
+                    "user": {
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "57a749fb82ec3911233dc3db",
+                      "nickname": "公主请发财ss",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo318me4l0a3u0048ke7p4vngurf4lv83g?imageView2/2/w/120/format/jpg",
+                      "red_id": "239385065",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {}
+                    }
+                  }
+                ],
+                "has_more": true,
+                "cursor": "{\"cursor\":\"687868a0000000000900dae3\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:20.186141049",
+              "message_cn": "成功"
+            },
+            {
+              "code": 500,
+              "data": null,
+              "message": "SERVER ERROR",
+              "recordTime": null,
+              "message_cn": "内部服务器错误",
+              "error": {
+                "type": "api_error",
+                "path": "/api/xiaohongshu/get-note-sub-comment/v2",
+                "url": "http://47.117.133.51:30015/api/xiaohongshu/get-note-sub-comment/v2?token=rrZQl9kQ&noteId=6877aa37000000002001b0f3&commentId=687858c90000000015002a6c&lastCursor=%7B%22cursor%22%3A%22687868a0000000000900dae3%22%2C%22index%22%3A2%7D",
+                "环境": "中国区",
+                "params": {
+                  "noteId": "6877aa37000000002001b0f3",
+                  "commentId": "687858c90000000015002a6c",
+                  "lastCursor": "{\"cursor\":\"687868a0000000000900dae3\",\"index\":2}",
+                  "token": "***"
+                },
+                "http_status": 200,
+                "duration_ms": 27,
+                "attempt": 1
+              }
+            }
+          ]
+        },
+        {
+          "评论ID": "6878b8aa000000000400a2cb",
+          "用户": {
+            "nickname": "晴了个晴",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+            "red_id": "544614167",
+            "userid": "574d0a5d6a6a691f7aaa0ec5",
+            "official_verified": false
+          },
+          "昵称": "晴了个晴",
+          "小红书号": "544614167",
+          "评论内容": "子女不和多是老人无德[微笑R]",
+          "点赞数": 10,
+          "发布时间": 1752742058,
+          "发布地点": "",
+          "二级评论数": 5,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "6878b8fb000000000c016d55",
+              "用户": {
+                "userid": "5d123bdb0000000011039679",
+                "nickname": "牛油果🥑",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hj00bs43i505n8i7fdkf5jperb6qa0?imageView2/2/w/120/format/jpg",
+                "red_id": "517403558",
+                "official_verified": false
+              },
+              "昵称": "牛油果🥑",
+              "小红书号": "517403558",
+              "评论内容": "好搞笑，我觉得你会火[斜眼R]",
+              "点赞数": null,
+              "发布时间": 1752742139,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878b8aa000000000400a2cb",
+                "用户": {
+                  "red_id": "544614167",
+                  "userid": "574d0a5d6a6a691f7aaa0ec5",
+                  "nickname": "晴了个晴",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg"
+                },
+                "昵称": "晴了个晴",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6889f71e000000002a01bdb4",
+              "用户": {
+                "nickname": "冰雪心城",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "5528773677",
+                "userid": "641a59790000000012013246",
+                "official_verified": false
+              },
+              "昵称": "冰雪心城",
+              "小红书号": "5528773677",
+              "评论内容": "那怎么不说多是有一个爱捣乱的儿媳妇",
+              "点赞数": null,
+              "发布时间": 1753872158,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6878b8aa000000000400a2cb",
+                "用户": {
+                  "userid": "574d0a5d6a6a691f7aaa0ec5",
+                  "nickname": "晴了个晴",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                  "red_id": "544614167"
+                },
+                "昵称": "晴了个晴",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68c1bbb500000000300040c8",
+              "用户": {
+                "userid": "641a59790000000012013246",
+                "nickname": "冰雪心城",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "5528773677",
+                "official_verified": false
+              },
+              "昵称": "冰雪心城",
+              "小红书号": "5528773677",
+              "评论内容": "我接上面人话说的",
+              "点赞数": null,
+              "发布时间": 1757526967,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6889f86f00000000290318bc",
+                "用户": {
+                  "userid": "574d0a5d6a6a691f7aaa0ec5",
+                  "nickname": "晴了个晴",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                  "red_id": "544614167"
+                },
+                "昵称": "晴了个晴",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68c2054d0000000030021eb8",
+              "用户": {
+                "userid": "574d0a5d6a6a691f7aaa0ec5",
+                "nickname": "晴了个晴",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                "red_id": "544614167",
+                "official_verified": false
+              },
+              "昵称": "晴了个晴",
+              "小红书号": "544614167",
+              "评论内容": "嗯嗯[飞吻R]",
+              "点赞数": null,
+              "发布时间": 1757545806,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68c1bbb500000000300040c8",
+                "用户": {
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "5528773677",
+                  "userid": "641a59790000000012013246",
+                  "nickname": "冰雪心城"
+                },
+                "昵称": "冰雪心城",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6889f86f00000000290318bc",
+              "用户": {
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                "red_id": "544614167",
+                "userid": "574d0a5d6a6a691f7aaa0ec5",
+                "nickname": "晴了个晴",
+                "official_verified": false
+              },
+              "昵称": "晴了个晴",
+              "小红书号": "544614167",
+              "评论内容": "说的小猫又扯上人了[笑哭R]",
+              "点赞数": null,
+              "发布时间": 1753872495,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6889f71e000000002a01bdb4",
+                "用户": {
+                  "userid": "641a59790000000012013246",
+                  "nickname": "冰雪心城",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "5528773677"
+                },
+                "昵称": "冰雪心城",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "time": 1752742139,
+                    "id": "6878b8fb000000000c016d55",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 0,
+                    "target_comment": {
+                      "id": "6878b8aa000000000400a2cb",
+                      "user": {
+                        "red_id": "544614167",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "574d0a5d6a6a691f7aaa0ec5",
+                        "nickname": "晴了个晴",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg"
+                      }
+                    },
+                    "comment_type": 0,
+                    "content": "好搞笑，我觉得你会火[斜眼R]",
+                    "user": {
+                      "current_user": "false",
+                      "userid": "5d123bdb0000000011039679",
+                      "nickname": "牛油果🥑",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31hj00bs43i505n8i7fdkf5jperb6qa0?imageView2/2/w/120/format/jpg",
+                      "red_id": "517403558",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false
+                    }
+                  },
+                  {
+                    "id": "6889f71e000000002a01bdb4",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "那怎么不说多是有一个爱捣乱的儿媳妇",
+                    "user": {
+                      "nickname": "冰雪心城",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "5528773677",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "641a59790000000012013246"
+                    },
+                    "like_count": 0,
+                    "target_comment": {
+                      "id": "6878b8aa000000000400a2cb",
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "574d0a5d6a6a691f7aaa0ec5",
+                        "nickname": "晴了个晴",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                        "red_id": "544614167",
+                        "level": {
+                          "image": ""
+                        }
+                      }
+                    },
+                    "time": 1753872158,
+                    "comment_type": 0
+                  },
+                  {
+                    "id": "68c1bbb500000000300040c8",
+                    "time": 1757526967,
+                    "comment_type": 2,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 0,
+                    "target_comment": {
+                      "user": {
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "574d0a5d6a6a691f7aaa0ec5",
+                        "nickname": "晴了个晴",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                        "red_id": "544614167",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {}
+                      },
+                      "id": "6889f86f00000000290318bc"
+                    },
+                    "content": "我接上面人话说的",
+                    "user": {
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "641a59790000000012013246",
+                      "nickname": "冰雪心城",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "5528773677",
+                      "level": {
+                        "image": ""
+                      }
+                    },
+                    "media_source_type": 0
+                  },
+                  {
+                    "id": "68c2054d0000000030021eb8",
+                    "content": "嗯嗯[飞吻R]",
+                    "like_count": 0,
+                    "target_comment": {
+                      "user": {
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "5528773677",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "641a59790000000012013246",
+                        "nickname": "冰雪心城"
+                      },
+                      "id": "68c1bbb500000000300040c8"
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "user": {
+                      "userid": "574d0a5d6a6a691f7aaa0ec5",
+                      "nickname": "晴了个晴",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                      "red_id": "544614167",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false"
+                    },
+                    "time": 1757545806,
+                    "comment_type": 0
+                  },
+                  {
+                    "id": "6889f86f00000000290318bc",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 0,
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31kreieqo2u0048d6jc55q3m53qig43g?imageView2/2/w/120/format/jpg",
+                      "red_id": "544614167",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "574d0a5d6a6a691f7aaa0ec5",
+                      "nickname": "晴了个晴"
+                    },
+                    "time": 1753872495,
+                    "content": "说的小猫又扯上人了[笑哭R]",
+                    "target_comment": {
+                      "id": "6889f71e000000002a01bdb4",
+                      "user": {
+                        "current_user": "false",
+                        "userid": "641a59790000000012013246",
+                        "nickname": "冰雪心城",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/2b4cefbb01e0a0824f5c173dde7f98b2.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "5528773677",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false
+                      }
+                    },
+                    "comment_type": 0
+                  }
+                ],
+                "has_more": false,
+                "cursor": "{\"cursor\":\"6889f86f00000000290318bc\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:22.270434356",
+              "message_cn": "成功"
+            }
+          ]
+        },
+        {
+          "评论ID": "687885ef000000000401f606",
+          "用户": {
+            "userid": "56489a24484fb663755adef7",
+            "nickname": "豆子1230",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pjgg2hr6i0042fegpd29nnn8mr0k0g?imageView2/2/w/120/format/jpg",
+            "red_id": "159231696",
+            "official_verified": false
+          },
+          "昵称": "豆子1230",
+          "小红书号": "159231696",
+          "评论内容": "这哪是打鼓，这不弹棉花么[笑哭R]掉一地……",
+          "点赞数": 51,
+          "发布时间": 1752729072,
+          "发布地点": "",
+          "二级评论数": 2,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "687887a0000000001100cf57",
+              "用户": {
+                "userid": "54e5e5d1a46e96780fd7ce85",
+                "nickname": "范饼饼",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31leu41hdks00401f7dit3jk5vvrvsp0?imageView2/2/w/120/format/jpg",
+                "red_id": "636671689",
+                "official_verified": false
+              },
+              "昵称": "范饼饼",
+              "小红书号": "636671689",
+              "评论内容": "哈哈哈哈哈",
+              "点赞数": null,
+              "发布时间": 1752729505,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687885ef000000000401f606",
+                "用户": {
+                  "userid": "56489a24484fb663755adef7",
+                  "nickname": "豆子1230",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pjgg2hr6i0042fegpd29nnn8mr0k0g?imageView2/2/w/120/format/jpg",
+                  "red_id": "159231696"
+                },
+                "昵称": "豆子1230",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6878913000000000090158da",
+              "用户": {
+                "userid": "5bc7536c2d9b7500014f3c3e",
+                "nickname": "橘猫阿喵喵",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/635509cc2f469f6176ba2033.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "155593481",
+                "official_verified": false
+              },
+              "昵称": "橘猫阿喵喵",
+              "小红书号": "155593481",
+              "评论内容": "我的反应也是！弹棉花呢孩子",
+              "点赞数": null,
+              "发布时间": 1752731952,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687885ef000000000401f606",
+                "用户": {
+                  "nickname": "豆子1230",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pjgg2hr6i0042fegpd29nnn8mr0k0g?imageView2/2/w/120/format/jpg",
+                  "red_id": "159231696",
+                  "userid": "56489a24484fb663755adef7"
+                },
+                "昵称": "豆子1230",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "id": "687887a0000000001100cf57",
+                    "like_count": 0,
+                    "time": 1752729505,
+                    "user": {
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "54e5e5d1a46e96780fd7ce85",
+                      "nickname": "范饼饼",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31leu41hdks00401f7dit3jk5vvrvsp0?imageView2/2/w/120/format/jpg",
+                      "red_id": "636671689",
+                      "level": {
+                        "image": ""
+                      }
+                    },
+                    "comment_type": 0,
+                    "content": "哈哈哈哈哈",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "target_comment": {
+                      "id": "687885ef000000000401f606",
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56489a24484fb663755adef7",
+                        "nickname": "豆子1230",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pjgg2hr6i0042fegpd29nnn8mr0k0g?imageView2/2/w/120/format/jpg",
+                        "red_id": "159231696",
+                        "level": {
+                          "image": ""
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "6878913000000000090158da",
+                    "like_count": 0,
+                    "user": {
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5bc7536c2d9b7500014f3c3e",
+                      "nickname": "橘猫阿喵喵",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/635509cc2f469f6176ba2033.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "155593481",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {}
+                    },
+                    "target_comment": {
+                      "id": "687885ef000000000401f606",
+                      "user": {
+                        "nickname": "豆子1230",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pjgg2hr6i0042fegpd29nnn8mr0k0g?imageView2/2/w/120/format/jpg",
+                        "red_id": "159231696",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56489a24484fb663755adef7"
+                      }
+                    },
+                    "comment_type": 0,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "我的反应也是！弹棉花呢孩子",
+                    "time": 1752731952
+                  }
+                ],
+                "has_more": false,
+                "cursor": "{\"cursor\":\"6878913000000000090158da\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:23.518819356",
+              "message_cn": "成功"
+            }
+          ]
+        },
+        {
+          "评论ID": "687869ca000000000401450d",
+          "用户": {
+            "userid": "5e0b00e300000000010041b5",
+            "nickname": "我给它苹果",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+            "red_id": "755071842",
+            "official_verified": false
+          },
+          "昵称": "我给它苹果",
+          "小红书号": "755071842",
+          "评论内容": "不疼吗[石化R]二位",
+          "点赞数": 1,
+          "发布时间": 1752721866,
+          "发布地点": "",
+          "二级评论数": 5,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "68786a8c000000000400a3a8",
+              "用户": {
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31muj3q2s58005nosd59gbhbl5l2pvgg?imageView2/2/w/120/format/jpg",
+                "red_id": "GaLi0827",
+                "userid": "5f1c6953000000000101c575",
+                "nickname": "噼里啪啦",
+                "official_verified": false
+              },
+              "昵称": "噼里啪啦",
+              "小红书号": "GaLi0827",
+              "评论内容": "应该问问短腿那只疼不疼[捂脸R]。它全程挨打",
+              "点赞数": null,
+              "发布时间": 1752722060,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687869ca000000000401450d",
+                "用户": {
+                  "userid": "5e0b00e300000000010041b5",
+                  "nickname": "我给它苹果",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                  "red_id": "755071842"
+                },
+                "昵称": "我给它苹果",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68786e1e000000000400bf88",
+              "用户": {
+                "nickname": "菲比布菲",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ntc5t46h0604949hjtk0jtsme79h20?imageView2/2/w/120/format/jpg",
+                "red_id": "607247081",
+                "userid": "589bfb4050c4b45df6174fbc",
+                "official_verified": false
+              },
+              "昵称": "菲比布菲",
+              "小红书号": "607247081",
+              "评论内容": "你仔细看，基本只有下面的那只被打得pangpangpang的[捂脸R][笑哭R]",
+              "点赞数": null,
+              "发布时间": 1752722975,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687869ca000000000401450d",
+                "用户": {
+                  "userid": "5e0b00e300000000010041b5",
+                  "nickname": "我给它苹果",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                  "red_id": "755071842"
+                },
+                "昵称": "我给它苹果",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68787599000000000401853a",
+              "用户": {
+                "userid": "5e0b00e300000000010041b5",
+                "nickname": "我给它苹果",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                "red_id": "755071842",
+                "official_verified": false
+              },
+              "昵称": "我给它苹果",
+              "小红书号": "755071842",
+              "评论内容": "脑瓜子打得邦邦响，眼神都清澈了[哭惹R]你们不要再打了[抓狂R]",
+              "点赞数": null,
+              "发布时间": 1752724889,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68786e1e000000000400bf88",
+                "用户": {
+                  "nickname": "菲比布菲",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ntc5t46h0604949hjtk0jtsme79h20?imageView2/2/w/120/format/jpg",
+                  "red_id": "607247081",
+                  "userid": "589bfb4050c4b45df6174fbc"
+                },
+                "昵称": "菲比布菲",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "687875a8000000000c01607f",
+              "用户": {
+                "red_id": "755071842",
+                "userid": "5e0b00e300000000010041b5",
+                "nickname": "我给它苹果",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                "official_verified": false
+              },
+              "昵称": "我给它苹果",
+              "小红书号": "755071842",
+              "评论内容": "长兵器还是占优势[笑哭R]",
+              "点赞数": null,
+              "发布时间": 1752724905,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68786a8c000000000400a3a8",
+                "用户": {
+                  "userid": "5f1c6953000000000101c575",
+                  "nickname": "噼里啪啦",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31muj3q2s58005nosd59gbhbl5l2pvgg?imageView2/2/w/120/format/jpg",
+                  "red_id": "GaLi0827"
+                },
+                "昵称": "噼里啪啦",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68794a74000000000401d9b0",
+              "用户": {
+                "red_id": "387292866",
+                "userid": "5bef16d4791ff30001f4ef88",
+                "nickname": "Moraene",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3169nrfingu004brbeabd9rs86eob670?imageView2/2/w/120/format/jpg",
+                "official_verified": false
+              },
+              "昵称": "Moraene",
+              "小红书号": "387292866",
+              "评论内容": "黄的不疼，白的恐怕有点疼。",
+              "点赞数": null,
+              "发布时间": 1752779381,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "687869ca000000000401450d",
+                "用户": {
+                  "userid": "5e0b00e300000000010041b5",
+                  "nickname": "我给它苹果",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                  "red_id": "755071842"
+                },
+                "昵称": "我给它苹果",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31muj3q2s58005nosd59gbhbl5l2pvgg?imageView2/2/w/120/format/jpg",
+                      "red_id": "GaLi0827",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5f1c6953000000000101c575",
+                      "nickname": "噼里啪啦"
+                    },
+                    "content": "应该问问短腿那只疼不疼[捂脸R]。它全程挨打",
+                    "like_count": 0,
+                    "time": 1752722060,
+                    "comment_type": 0,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "id": "68786a8c000000000400a3a8",
+                    "target_comment": {
+                      "id": "687869ca000000000401450d",
+                      "user": {
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5e0b00e300000000010041b5",
+                        "nickname": "我给它苹果",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                        "red_id": "755071842"
+                      }
+                    }
+                  },
+                  {
+                    "content": "你仔细看，基本只有下面的那只被打得pangpangpang的[捂脸R][笑哭R]",
+                    "user": {
+                      "nickname": "菲比布菲",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ntc5t46h0604949hjtk0jtsme79h20?imageView2/2/w/120/format/jpg",
+                      "red_id": "607247081",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "589bfb4050c4b45df6174fbc"
+                    },
+                    "like_count": 0,
+                    "time": 1752722975,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "target_comment": {
+                      "id": "687869ca000000000401450d",
+                      "user": {
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5e0b00e300000000010041b5",
+                        "nickname": "我给它苹果",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                        "red_id": "755071842",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {}
+                      }
+                    },
+                    "comment_type": 0,
+                    "id": "68786e1e000000000400bf88"
+                  },
+                  {
+                    "content": "脑瓜子打得邦邦响，眼神都清澈了[哭惹R]你们不要再打了[抓狂R]",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "user": {
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5e0b00e300000000010041b5",
+                      "nickname": "我给它苹果",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                      "red_id": "755071842",
+                      "level": {
+                        "image": ""
+                      }
+                    },
+                    "id": "68787599000000000401853a",
+                    "like_count": 0,
+                    "time": 1752724889,
+                    "target_comment": {
+                      "user": {
+                        "nickname": "菲比布菲",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30ntc5t46h0604949hjtk0jtsme79h20?imageView2/2/w/120/format/jpg",
+                        "red_id": "607247081",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "589bfb4050c4b45df6174fbc"
+                      },
+                      "id": "68786e1e000000000400bf88"
+                    },
+                    "comment_type": 0
+                  },
+                  {
+                    "content": "长兵器还是占优势[笑哭R]",
+                    "time": 1752724905,
+                    "comment_type": 0,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 0,
+                    "target_comment": {
+                      "id": "68786a8c000000000400a3a8",
+                      "user": {
+                        "current_user": "false",
+                        "userid": "5f1c6953000000000101c575",
+                        "nickname": "噼里啪啦",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31muj3q2s58005nosd59gbhbl5l2pvgg?imageView2/2/w/120/format/jpg",
+                        "red_id": "GaLi0827",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false
+                      }
+                    },
+                    "user": {
+                      "red_id": "755071842",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5e0b00e300000000010041b5",
+                      "nickname": "我给它苹果",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg"
+                    },
+                    "id": "687875a8000000000c01607f"
+                  },
+                  {
+                    "id": "68794a74000000000401d9b0",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "黄的不疼，白的恐怕有点疼。",
+                    "target_comment": {
+                      "user": {
+                        "userid": "5e0b00e300000000010041b5",
+                        "nickname": "我给它苹果",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31o8g1e6s6m005ngb03hg8gdlhcqgl7g?imageView2/2/w/120/format/jpg",
+                        "red_id": "755071842",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false"
+                      },
+                      "id": "687869ca000000000401450d"
+                    },
+                    "user": {
+                      "red_id": "387292866",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5bef16d4791ff30001f4ef88",
+                      "nickname": "Moraene",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo3169nrfingu004brbeabd9rs86eob670?imageView2/2/w/120/format/jpg"
+                    },
+                    "comment_type": 0,
+                    "like_count": 0,
+                    "time": 1752779381
+                  }
+                ],
+                "has_more": false,
+                "cursor": "{\"cursor\":\"68794a74000000000401d9b0\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:24.716864441",
+              "message_cn": "成功"
+            }
+          ]
+        },
+        {
+          "评论ID": "6877dbdf000000000400cd7d",
+          "用户": {
+            "userid": "64bacf320000000014037555",
+            "nickname": "褪黑素上瘾",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+            "red_id": "2234213025",
+            "official_verified": false
+          },
+          "昵称": "褪黑素上瘾",
+          "小红书号": "2234213025",
+          "评论内容": "打得真凶呀，家长不劝架呀",
+          "点赞数": 6864,
+          "发布时间": 1752685536,
+          "发布地点": "",
+          "二级评论数": 286,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "6878462a000000000c0262c5",
+              "用户": {
+                "userid": "56735a67ea3faf77857f92ee",
+                "nickname": "喵喵面包屋",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/67bd419fe764ee530bda3ae6.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "535547213",
+                "official_verified": false
+              },
+              "昵称": "喵喵面包屋",
+              "小红书号": "535547213",
+              "评论内容": "家长一起打[doge]",
+              "点赞数": 2576,
+              "发布时间": 1752712746,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6877dbdf000000000400cd7d",
+                "用户": {
+                  "userid": "64bacf320000000014037555",
+                  "nickname": "褪黑素上瘾",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+                  "red_id": "2234213025"
+                },
+                "昵称": "褪黑素上瘾",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6877e59d000000000c016cd6",
+              "用户": {
+                "userid": "64bacf320000000014037555",
+                "nickname": "褪黑素上瘾",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+                "red_id": "2234213025",
+                "official_verified": false
+              },
+              "昵称": "褪黑素上瘾",
+              "小红书号": "2234213025",
+              "评论内容": "哈哈哈哈哈",
+              "点赞数": 38,
+              "发布时间": 1752688030,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6877dd940000000015001021",
+                "用户": {
+                  "userid": "5c3fe9880000000007021784",
+                  "nickname": "mockingbird",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "507581956"
+                },
+                "昵称": "mockingbird",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68784ceb000000000401fdda",
+              "用户": {
+                "userid": "5dfb9d43000000000100242c",
+                "nickname": "🍍🍍",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/5dfb9d6c48e42e0001960eb9.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "662091070",
+                "official_verified": false
+              },
+              "昵称": "🍍🍍",
+              "小红书号": "662091070",
+              "评论内容": "哈哈哈哈哈，",
+              "点赞数": 8,
+              "发布时间": 1752714475,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6877dd940000000015001021",
+                "用户": {
+                  "userid": "5c3fe9880000000007021784",
+                  "nickname": "mockingbird",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "507581956"
+                },
+                "昵称": "mockingbird",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68784e00000000001100fa56",
+              "用户": {
+                "userid": "5b91057a3a0ae00001e55ce2",
+                "nickname": "淡然🍭",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/5b91057a3a0ae00001e55ce2.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "626662028",
+                "official_verified": false
+              },
+              "昵称": "淡然🍭",
+              "小红书号": "626662028",
+              "评论内容": "打架有益健康[偷笑R]",
+              "点赞数": 17,
+              "发布时间": 1752714752,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6877dbdf000000000400cd7d",
+                "用户": {
+                  "userid": "64bacf320000000014037555",
+                  "nickname": "褪黑素上瘾",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+                  "red_id": "2234213025"
+                },
+                "昵称": "褪黑素上瘾",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "687850cb000000001102c25a",
+              "用户": {
+                "red_id": "243398996",
+                "userid": "5f4114e7000000000101cb14",
+                "nickname": "👉额我是谁",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k15h3rm30005nq12jjgbiokn9iq3b0?imageView2/2/w/120/format/jpg",
+                "official_verified": false
+              },
+              "昵称": "👉额我是谁",
+              "小红书号": "243398996",
+              "评论内容": "@神经蛙 很凶",
+              "点赞数": 5,
+              "发布时间": 1752715467,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "6877dbdf000000000400cd7d",
+                "用户": {
+                  "red_id": "2234213025",
+                  "userid": "64bacf320000000014037555",
+                  "nickname": "褪黑素上瘾",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg"
+                },
+                "昵称": "褪黑素上瘾",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "like_count": 2576,
+                    "comment_type": 0,
+                    "target_comment": {
+                      "id": "6877dbdf000000000400cd7d",
+                      "user": {
+                        "current_user": "false",
+                        "userid": "64bacf320000000014037555",
+                        "nickname": "褪黑素上瘾",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+                        "red_id": "2234213025",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false
+                      }
+                    },
+                    "id": "6878462a000000000c0262c5",
+                    "content": "家长一起打[doge]",
+                    "time": 1752712746,
+                    "user": {
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "56735a67ea3faf77857f92ee",
+                      "nickname": "喵喵面包屋",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/67bd419fe764ee530bda3ae6.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "535547213",
+                      "level": {
+                        "image": ""
+                      }
+                    },
+                    "note_id": "6877aa37000000002001b0f3"
+                  },
+                  {
+                    "time": 1752688030,
+                    "target_comment": {
+                      "user": {
+                        "userid": "5c3fe9880000000007021784",
+                        "nickname": "mockingbird",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "507581956",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false"
+                      },
+                      "id": "6877dd940000000015001021"
+                    },
+                    "content": "哈哈哈哈哈",
+                    "like_count": 38,
+                    "comment_type": 0,
+                    "id": "6877e59d000000000c016cd6",
+                    "user": {
+                      "current_user": "false",
+                      "userid": "64bacf320000000014037555",
+                      "nickname": "褪黑素上瘾",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+                      "red_id": "2234213025",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false
+                    },
+                    "note_id": "6877aa37000000002001b0f3"
+                  },
+                  {
+                    "id": "68784ceb000000000401fdda",
+                    "target_comment": {
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5c3fe9880000000007021784",
+                        "nickname": "mockingbird",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/0dd6f7e91ce0bea602fbc47515b7c72f.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "507581956",
+                        "level": {
+                          "image": ""
+                        }
+                      },
+                      "id": "6877dd940000000015001021"
+                    },
+                    "content": "哈哈哈哈哈，",
+                    "like_count": 8,
+                    "user": {
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5dfb9d43000000000100242c",
+                      "nickname": "🍍🍍",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/5dfb9d6c48e42e0001960eb9.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "662091070"
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "time": 1752714475,
+                    "comment_type": 0
+                  },
+                  {
+                    "note_id": "6877aa37000000002001b0f3",
+                    "id": "68784e00000000001100fa56",
+                    "time": 1752714752,
+                    "target_comment": {
+                      "id": "6877dbdf000000000400cd7d",
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "64bacf320000000014037555",
+                        "nickname": "褪黑素上瘾",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg",
+                        "red_id": "2234213025",
+                        "level": {
+                          "image": ""
+                        }
+                      }
+                    },
+                    "comment_type": 0,
+                    "like_count": 17,
+                    "user": {
+                      "userid": "5b91057a3a0ae00001e55ce2",
+                      "nickname": "淡然🍭",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/5b91057a3a0ae00001e55ce2.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "626662028",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false"
+                    },
+                    "content": "打架有益健康[偷笑R]"
+                  },
+                  {
+                    "time": 1752715467,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "@神经蛙 很凶",
+                    "like_count": 5,
+                    "user": {
+                      "red_id": "243398996",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5f4114e7000000000101cb14",
+                      "nickname": "👉额我是谁",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31k15h3rm30005nq12jjgbiokn9iq3b0?imageView2/2/w/120/format/jpg"
+                    },
+                    "target_comment": {
+                      "id": "6877dbdf000000000400cd7d",
+                      "user": {
+                        "red_id": "2234213025",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "64bacf320000000014037555",
+                        "nickname": "褪黑素上瘾",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31l9tcacr5i605p5qpsp56talvubfdfo?imageView2/2/w/120/format/jpg"
+                      }
+                    },
+                    "id": "687850cb000000001102c25a",
+                    "comment_type": 0
+                  }
+                ],
+                "has_more": true,
+                "cursor": "{\"cursor\":\"687850cb000000001102c25a\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:25.899479403",
+              "message_cn": "成功"
+            },
+            {
+              "code": 500,
+              "data": null,
+              "message": "SERVER ERROR",
+              "recordTime": null,
+              "message_cn": "内部服务器错误",
+              "error": {
+                "type": "api_error",
+                "path": "/api/xiaohongshu/get-note-sub-comment/v2",
+                "url": "http://47.117.133.51:30015/api/xiaohongshu/get-note-sub-comment/v2?token=rrZQl9kQ&noteId=6877aa37000000002001b0f3&commentId=6877dbdf000000000400cd7d&lastCursor=%7B%22cursor%22%3A%22687850cb000000001102c25a%22%2C%22index%22%3A2%7D",
+                "环境": "中国区",
+                "params": {
+                  "noteId": "6877aa37000000002001b0f3",
+                  "commentId": "6877dbdf000000000400cd7d",
+                  "lastCursor": "{\"cursor\":\"687850cb000000001102c25a\",\"index\":2}",
+                  "token": "***"
+                },
+                "http_status": 200,
+                "duration_ms": 28,
+                "attempt": 1
+              }
+            }
+          ]
+        },
+        {
+          "评论ID": "68783a28000000000401a90a",
+          "用户": {
+            "userid": "56f539bb1c07df2ec55862fc",
+            "nickname": "kawaibaby👑💎",
+            "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg",
+            "red_id": "634321262",
+            "official_verified": false
+          },
+          "昵称": "kawaibaby👑💎",
+          "小红书号": "634321262",
+          "评论内容": "以为谁在拍粉底呢[笑哭R]",
+          "点赞数": 3642,
+          "发布时间": 1752709673,
+          "发布地点": "",
+          "二级评论数": 204,
+          "评论级别": "根评论",
+          "作者ID": "56735a67ea3faf77857f92ee",
+          "是否官方认证": false,
+          "二级评论": [
+            {
+              "评论ID": "68785603000000000c02539d",
+              "用户": {
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/63e45e07d4867f0b68f2cdd2.jpg?imageView2/2/w/120/format/jpg",
+                "red_id": "635710555",
+                "userid": "5a87804911be10259b7c694a",
+                "nickname": "理想七萬",
+                "official_verified": false
+              },
+              "昵称": "理想七萬",
+              "小红书号": "635710555",
+              "评论内容": "@看云飘 哈哈哈哈哈哈哈哈哈哈哈太搞笑了",
+              "点赞数": 73,
+              "发布时间": 1752716803,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68783a28000000000401a90a",
+                "用户": {
+                  "red_id": "634321262",
+                  "userid": "56f539bb1c07df2ec55862fc",
+                  "nickname": "kawaibaby👑💎",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg"
+                },
+                "昵称": "kawaibaby👑💎",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "6878554a000000001100cc87",
+              "用户": {
+                "userid": "63666fdc000000001f01d30b",
+                "nickname": "秋仁",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gt73tsj38005or6dve7rkobo7ovvsg?imageView2/2/w/120/format/jpg",
+                "red_id": "5333917428",
+                "official_verified": false
+              },
+              "昵称": "秋仁",
+              "小红书号": "5333917428",
+              "评论内容": "[笑哭R][笑哭R]",
+              "点赞数": 2,
+              "发布时间": 1752716618,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68783a28000000000401a90a",
+                "用户": {
+                  "userid": "56f539bb1c07df2ec55862fc",
+                  "nickname": "kawaibaby👑💎",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "634321262"
+                },
+                "昵称": "kawaibaby👑💎",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68785c61000000001500295f",
+              "用户": {
+                "red_id": "542696371",
+                "userid": "5571ce3367bc651afd945334",
+                "nickname": "网恋被骗6800",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mghfk5r580040ofkt736kpk5as5750?imageView2/2/w/120/format/jpg",
+                "official_verified": false
+              },
+              "昵称": "网恋被骗6800",
+              "小红书号": "542696371",
+              "评论内容": "@玳比 [大笑R]",
+              "点赞数": null,
+              "发布时间": 1752718434,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68783a28000000000401a90a",
+                "用户": {
+                  "userid": "56f539bb1c07df2ec55862fc",
+                  "nickname": "kawaibaby👑💎",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "634321262"
+                },
+                "昵称": "kawaibaby👑💎",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "68785cb1000000000602e6c8",
+              "用户": {
+                "userid": "561c727d5894464a456b3082",
+                "nickname": "玳比",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tlsnqpj4k0041gvuup7qc42llm5ur0?imageView2/2/w/120/format/jpg",
+                "red_id": "567854991",
+                "official_verified": false
+              },
+              "昵称": "玳比",
+              "小红书号": "567854991",
+              "评论内容": "[笑哭R]",
+              "点赞数": 1,
+              "发布时间": 1752718513,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68785c61000000001500295f",
+                "用户": {
+                  "userid": "5571ce3367bc651afd945334",
+                  "nickname": "网恋被骗6800",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mghfk5r580040ofkt736kpk5as5750?imageView2/2/w/120/format/jpg",
+                  "red_id": "542696371"
+                },
+                "昵称": "网恋被骗6800",
+                "内容": null
+              }
+            },
+            {
+              "评论ID": "687862ad000000000602e863",
+              "用户": {
+                "userid": "5a49a8de11be10127a25e078",
+                "nickname": "两好三坏",
+                "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cq4ddouge004a0jiukdto3otisj2ro?imageView2/2/w/120/format/jpg",
+                "red_id": "186972424",
+                "official_verified": false
+              },
+              "昵称": "两好三坏",
+              "小红书号": "186972424",
+              "评论内容": "@是小小的老子",
+              "点赞数": 2,
+              "发布时间": 1752720046,
+              "发布地点": "",
+              "二级评论数": null,
+              "评论级别": "二级评论",
+              "作者ID": "56735a67ea3faf77857f92ee",
+              "是否官方认证": false,
+              "回复目标": {
+                "评论ID": "68783a28000000000401a90a",
+                "用户": {
+                  "userid": "56f539bb1c07df2ec55862fc",
+                  "nickname": "kawaibaby👑💎",
+                  "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg",
+                  "red_id": "634321262"
+                },
+                "昵称": "kawaibaby👑💎",
+                "内容": null
+              }
+            }
+          ],
+          "二级评论原始响应": [
+            {
+              "code": 0,
+              "data": {
+                "comments": [
+                  {
+                    "like_count": 73,
+                    "time": 1752716803,
+                    "target_comment": {
+                      "id": "68783a28000000000401a90a",
+                      "user": {
+                        "red_id": "634321262",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56f539bb1c07df2ec55862fc",
+                        "nickname": "kawaibaby👑💎",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg"
+                      }
+                    },
+                    "comment_type": 0,
+                    "id": "68785603000000000c02539d",
+                    "content": "@看云飘 哈哈哈哈哈哈哈哈哈哈哈太搞笑了",
+                    "user": {
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/63e45e07d4867f0b68f2cdd2.jpg?imageView2/2/w/120/format/jpg",
+                      "red_id": "635710555",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5a87804911be10259b7c694a",
+                      "nickname": "理想七萬"
+                    },
+                    "note_id": "6877aa37000000002001b0f3"
+                  },
+                  {
+                    "comment_type": 0,
+                    "time": 1752716618,
+                    "target_comment": {
+                      "id": "68783a28000000000401a90a",
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56f539bb1c07df2ec55862fc",
+                        "nickname": "kawaibaby👑💎",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "634321262",
+                        "level": {
+                          "image": ""
+                        }
+                      }
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "[笑哭R][笑哭R]",
+                    "like_count": 2,
+                    "user": {
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "63666fdc000000001f01d30b",
+                      "nickname": "秋仁",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gt73tsj38005or6dve7rkobo7ovvsg?imageView2/2/w/120/format/jpg",
+                      "red_id": "5333917428",
+                      "level": {
+                        "image": ""
+                      }
+                    },
+                    "id": "6878554a000000001100cc87"
+                  },
+                  {
+                    "user": {
+                      "red_id": "542696371",
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5571ce3367bc651afd945334",
+                      "nickname": "网恋被骗6800",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mghfk5r580040ofkt736kpk5as5750?imageView2/2/w/120/format/jpg"
+                    },
+                    "note_id": "6877aa37000000002001b0f3",
+                    "like_count": 0,
+                    "comment_type": 0,
+                    "id": "68785c61000000001500295f",
+                    "content": "@玳比 [大笑R]",
+                    "time": 1752718434,
+                    "target_comment": {
+                      "id": "68783a28000000000401a90a",
+                      "user": {
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "56f539bb1c07df2ec55862fc",
+                        "nickname": "kawaibaby👑💎",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "634321262",
+                        "level": {
+                          "image": ""
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "target_comment": {
+                      "id": "68785c61000000001500295f",
+                      "user": {
+                        "ai_agent": false,
+                        "current_user": "false",
+                        "userid": "5571ce3367bc651afd945334",
+                        "nickname": "网恋被骗6800",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mghfk5r580040ofkt736kpk5as5750?imageView2/2/w/120/format/jpg",
+                        "red_id": "542696371",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {}
+                      }
+                    },
+                    "comment_type": 0,
+                    "id": "68785cb1000000000602e6c8",
+                    "note_id": "6877aa37000000002001b0f3",
+                    "content": "[笑哭R]",
+                    "like_count": 1,
+                    "time": 1752718513,
+                    "user": {
+                      "level": {
+                        "image": ""
+                      },
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "561c727d5894464a456b3082",
+                      "nickname": "玳比",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30tlsnqpj4k0041gvuup7qc42llm5ur0?imageView2/2/w/120/format/jpg",
+                      "red_id": "567854991"
+                    }
+                  },
+                  {
+                    "like_count": 2,
+                    "user": {
+                      "additional_tags": {},
+                      "ai_agent": false,
+                      "current_user": "false",
+                      "userid": "5a49a8de11be10127a25e078",
+                      "nickname": "两好三坏",
+                      "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cq4ddouge004a0jiukdto3otisj2ro?imageView2/2/w/120/format/jpg",
+                      "red_id": "186972424",
+                      "level": {
+                        "image": ""
+                      }
+                    },
+                    "comment_type": 0,
+                    "time": 1752720046,
+                    "note_id": "6877aa37000000002001b0f3",
+                    "target_comment": {
+                      "id": "68783a28000000000401a90a",
+                      "user": {
+                        "userid": "56f539bb1c07df2ec55862fc",
+                        "nickname": "kawaibaby👑💎",
+                        "images": "https://sns-avatar-qc.xhscdn.com/avatar/641af0ade38146c980fe7303.jpg?imageView2/2/w/120/format/jpg",
+                        "red_id": "634321262",
+                        "level": {
+                          "image": ""
+                        },
+                        "additional_tags": {},
+                        "ai_agent": false,
+                        "current_user": "false"
+                      }
+                    },
+                    "id": "687862ad000000000602e863",
+                    "content": "@是小小的老子"
+                  }
+                ],
+                "has_more": true,
+                "cursor": "{\"cursor\":\"687862ad000000000602e863\",\"index\":2}"
+              },
+              "message": null,
+              "recordTime": "2025-11-07T16:06:27.938599458",
+              "message_cn": "成功"
+            },
+            {
+              "code": 500,
+              "data": null,
+              "message": "SERVER ERROR",
+              "recordTime": null,
+              "message_cn": "内部服务器错误",
+              "error": {
+                "type": "api_error",
+                "path": "/api/xiaohongshu/get-note-sub-comment/v2",
+                "url": "http://47.117.133.51:30015/api/xiaohongshu/get-note-sub-comment/v2?token=rrZQl9kQ&noteId=6877aa37000000002001b0f3&commentId=68783a28000000000401a90a&lastCursor=%7B%22cursor%22%3A%22687862ad000000000602e863%22%2C%22index%22%3A2%7D",
+                "环境": "中国区",
+                "params": {
+                  "noteId": "6877aa37000000002001b0f3",
+                  "commentId": "68783a28000000000401a90a",
+                  "lastCursor": "{\"cursor\":\"687862ad000000000602e863\",\"index\":2}",
+                  "token": "***"
+                },
+                "http_status": 200,
+                "duration_ms": 29,
+                "attempt": 1
+              }
+            }
+          ]
+        }
+      ],
+      "请求信息": {
+        "环境": "中国区",
+        "评论": {
+          "path_v2": "/api/xiaohongshu/get-note-comment/v2",
+          "url_v2": "http://47.117.133.51:30015/api/xiaohongshu/get-note-comment/v2",
+          "params_v2": {
+            "noteId": "6877aa37000000002001b0f3",
+            "sort": "normal",
+            "lastCursor": "{\"cursor\":\"68783a28000000000401a90a\",\"index\":2,\"pageArea\":\"ALL\"}",
+            "token": "***"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "请求耗时": {
+      "/api/xiaohongshu/get-note-comment/v2": {
+        "次数": 2,
+        "最短耗时ms": 31,
+        "最长耗时ms": 625,
+        "平均耗时ms": 328
+      },
+      "/api/xiaohongshu/get-note-sub-comment/v2": {
+        "次数": 15,
+        "最短耗时ms": 26,
+        "最长耗时ms": 581,
+        "平均耗时ms": 303
+      }
+    },
+    "版本选择": [
+      {
+        "api": "note_comment",
+        "prefer": "v2",
+        "result_code": 0
+      },
+      {
+        "api": "note_comment",
+        "prefer": "v2",
+        "result_code": 500
+      }
+    ],
+    "统计": {
+      "条目数": 10,
+      "页数": 0
+    }
+  }
+}

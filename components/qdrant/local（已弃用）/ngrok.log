@@ -1,0 +1,18 @@
+t=2025-11-12T13:47:32+0800 lvl=info msg="open config file" path=/Users/macmima1234/code/components/components/atol/ngrok.yml err=nil
+t=2025-11-12T13:47:32+0800 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2025-11-12T13:47:32+0800 lvl=info msg="client session established" obj=tunnels.session
+t=2025-11-12T13:47:32+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2025-11-12T13:47:33+0800 lvl=info msg="started tunnel" obj=tunnels name=qdrant addr=http://localhost:6333 url=http://lynetta-intercolumnar-vigorously.ngrok-free.dev
+t=2025-11-12T13:47:33+0800 lvl=info msg="update available" obj=updater
+t=2025-11-12T13:47:37+0800 lvl=info msg=start pg=/api/tunnels id=606c295f9c0eb675
+t=2025-11-12T13:47:37+0800 lvl=info msg=end pg=/api/tunnels id=606c295f9c0eb675 status=200 dur=284.565µs
+t=2025-11-12T13:47:37+0800 lvl=info msg="join connections" obj=join id=bf4f4aefcac5 l=127.0.0.1:6333 r=218.108.131.186:52565
+t=2025-11-12T13:47:37+0800 lvl=info msg="join connections" obj=join id=fcbc5ad55d05 l=127.0.0.1:6333 r=218.108.131.186:52567
+t=2025-11-12T13:47:44+0800 lvl=info msg="join connections" obj=join id=c8148d35e20b l=127.0.0.1:6333 r=155.117.84.131:12473
+t=2025-11-12T13:48:29+0800 lvl=info msg="join connections" obj=join id=0fded0f224e2 l=127.0.0.1:6333 r=155.117.84.131:29926
+t=2025-11-12T17:42:19+0800 lvl=eror msg="heartbeat timeout, terminating session" obj=tunnels.session obj=csess id=0fb90712b2ea clientid=c9516d9cb56e1c3aab1a1b55b8983602
+t=2025-11-12T17:42:19+0800 lvl=eror msg="session closed, starting reconnect loop" obj=tunnels.session obj=csess id=c29828d2f3af err="session closed"
+t=2025-11-12T17:42:20+0800 lvl=info msg="client session established" obj=tunnels.session
+t=2025-11-12T17:42:20+0800 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2025-11-12T17:50:37+0800 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2025-11-12T17:50:37+0800 lvl=info msg="session closing" obj=tunnels.session err=nil

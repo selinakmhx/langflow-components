@@ -1,0 +1,52 @@
+{
+  "数据": [
+    {
+      "页码": 1,
+      "原始": {
+        "code": 301,
+        "data": null,
+        "message": "FAILED, RETRY",
+        "recordTime": null,
+        "message_cn": "采集失败，请重试",
+        "error": {
+          "type": "api_error",
+          "path": "/api/xiaohongshu/search-note/v2",
+          "url": "http://47.117.133.51:30015/api/xiaohongshu/search-note/v2?token=rrZQl9kQ&keyword=%E5%8F%A3%E7%BA%A2&page=1&sort=popularity_descending&noteType=_0&noteTime=%E4%B8%80%E5%A4%A9%E5%86%85",
+          "环境": "中国区",
+          "params": {
+            "keyword": "口红",
+            "page": 1,
+            "sort": "popularity_descending",
+            "noteType": "_0",
+            "noteTime": "一天内",
+            "token": "***"
+          },
+          "http_status": 200,
+          "duration_ms": 5457,
+          "attempt": 1
+        }
+      }
+    }
+  ],
+  "meta": {
+    "请求耗时": {
+      "/api/xiaohongshu/search-note/v2": {
+        "次数": 1,
+        "最短耗时ms": 5457,
+        "最长耗时ms": 5457,
+        "平均耗时ms": 5457
+      }
+    },
+    "版本选择": [
+      {
+        "api": "search_note",
+        "prefer": "v2",
+        "result_code": 301
+      }
+    ],
+    "统计": {
+      "条目数": 0,
+      "页数": 1
+    }
+  }
+}

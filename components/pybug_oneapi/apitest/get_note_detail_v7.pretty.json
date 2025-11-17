@@ -1,0 +1,294 @@
+// http://47.117.133.51:30015/api/xiaohongshu/get-note-detail/v7?token=rrZQl9kQ&noteId=690ad34a0000000004001e98
+{
+  "_comment": {
+    "文件用途": "获取笔记详情（Note Detail v7）响应样例，供字段映射与调试使用",
+    "重要字段": {
+      "code": "返回码。0 表示成功",
+      "data[]": "结果数组（每项包含 model_type/user/note_list 等）",
+      "item.user": "作者信息（red_official_verify_type/nickname/userid 等）",
+      "item.comment_list": "评论列表（可能为空或包含关键评论）",
+      "item.note_list[]": "笔记详情列表（可含多个版本/形态）",
+      "note_list[].topics[]": "话题列表（id/name/image/link）",
+      "note_list[].goods_info": "商品信息（如果是带货笔记）",
+      "note_list[].widgets_groups": "挂件组（不同 fetch_types 对应不同模块）",
+      "note_list[].share_info/long_press_share_info": "分享信息（标题、图片、链接、功能入口）",
+      "note_list[].ip_location": "IP 归属地"
+    },
+    "备注": "v7 具备更丰富的挂件与话题信息；解析时请忽略 _comment 字段。"
+  },
+  "code": 0,
+  "data": [
+    {
+      "comment_list": [],
+      "track_id": "",
+      "model_type": "note",
+      "user": {
+        "red_official_verify_type": 0,
+        "track_duration": 0,
+        "followed": false,
+        "red_id": "2954786710",
+        "nickname": "摸鱼Cici",
+        "show_red_official_verify_icon": false,
+        "red_official_verified": false,
+        "id": "62662b69000000002102742e",
+        "name": "摸鱼Cici",
+        "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30o387tfqic605oj65dkoct1ef7gnmn8?imageView2/2/w/120/format/jpg",
+        "userid": "62662b69000000002102742e",
+        "fstatus": "none",
+        "level": {
+          "image": ""
+        }
+      },
+      "note_list": [
+        {
+          "red_envelope_note": false,
+          "liked_users": [],
+          "biz_map": {},
+          "last_update_time": 0,
+          "sticky": false,
+          "topics": [
+            {
+              "business_type": 0,
+              "id": "6429a7d6000000000d03c71d",
+              "name": "年轻人整顿职场",
+              "image": "http://ci.xiaohongshu.com/fd75707a-37f8-45ad-b7a7-0feaf36e9cad@r_120w_120h.jpg",
+              "link": "xhsdiscover://topic/v2/6429a7d68b47080001e6e645?page_source=note_feed.click_new_big",
+              "activity_online": false,
+              "style": 0,
+              "discuss_num": 0
+            }
+          ],
+          "goods_info": {},
+          "enable_co_produce": true,
+          "co_produce_link": "xhsdiscover://post_new_note?source=%7B%22type%22%3A%22together_post%22%2C%22extraInfo%22%3A%7B%22subType%22%3A%22together_post_halfspace%22%2C%22track_id%22%3A%22690ad34a0000000004001e98%22%7D%7D&page=%7B%22page_type%22%3A%22image_co_produce_album%22%7D",
+          "text_language_code": "zh",
+          "foot_tags": [],
+          "need_product_review": false,
+          "widgets_groups": [
+            [
+              "guos_test",
+              "note_next_step",
+              "second_jump_bar",
+              "cooperate_binds",
+              "note_collection",
+              "rec_next_infos",
+              "image_stickers",
+              "image_filters",
+              "product_review",
+              "related_search",
+              "cooperate_comment_component",
+              "image_goods_cards",
+              "ads_goods_cards",
+              "ads_comment_component",
+              "goods_card_v2",
+              "image_template",
+              "buyable_goods_card_v2",
+              "ads_engage_bar",
+              "challenge_card",
+              "cooperate_engage_bar",
+              "guide_post",
+              "pgy_comment_component",
+              "pgy_engage_bar",
+              "bar_below_image",
+              "aigc_collection",
+              "co_produce",
+              "widgets_ndb",
+              "next_note_guide",
+              "pgy_bbc_exp",
+              "async_group",
+              "super_activity",
+              "widgets_enhance",
+              "music_player",
+              "soundtrack_player"
+            ],
+            [
+              "guos_test",
+              "vote_stickers",
+              "bullet_comment_lead",
+              "note_search_box",
+              "interact_pk",
+              "interact_vote",
+              "guide_heuristic",
+              "share_to_msg",
+              "follow_guide",
+              "note_share_prompt_v1",
+              "sync_group",
+              "group_share",
+              "share_guide_bubble",
+              "widgets_share",
+              "guide_navigator"
+            ]
+          ],
+          "id": "690ad34a0000000004001e98",
+          "in_censor": false,
+          "may_have_red_packet": false,
+          "ip_location": "广东",
+          "share_info": {
+            "block_private_msg": false,
+            "content": "刚叫一个新员工过来问项目跟进情况，没说两句他Apple Watch就报警了[捂脸R] 他心理压力大不大我不知道，反正我心",
+            "is_star": false,
+            "title": "刚叫一个新员工过来问项目跟进情况，没说两句他Apple Watch就报警了[捂脸",
+            "show_wechat_tag": false,
+            "function_entries": [
+              {
+                "type": "generate_image"
+              },
+              {
+                "type": "copy_link"
+              },
+              {
+                "type": "heat_for_author"
+              },
+              {
+                "type": "dislike"
+              },
+              {
+                "type": "report"
+              }
+            ],
+            "guide_audited": true,
+            "wechat_share_desc": "@摸鱼Cici 的笔记\n5565人分享",
+            "image": "https://sns-na-i11.xhscdn.com/1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug?imageView2/2/w/360/format/jpg/q/75",
+            "link": "https://www.xiaohongshu.com/discovery/item/690ad34a0000000004001e98?share_from_user_hidden=true&xsec_source=app_share&type=normal&author_share=1"
+          },
+          "has_related_goods": false,
+          "long_press_share_info": {
+            "function_entries": [
+              {
+                "type": "image_download"
+              }
+            ],
+            "guide_audited": false,
+            "content": "",
+            "title": "",
+            "is_star": false,
+            "block_private_msg": false,
+            "show_wechat_tag": false
+          },
+          "content_trans_info": {
+            "strategy": 10
+          },
+          "user": {
+            "red_official_verified": false,
+            "level": {
+              "image": ""
+            },
+            "id": "62662b69000000002102742e",
+            "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30o387tfqic605oj65dkoct1ef7gnmn8?imageView2/2/w/120/format/jpg",
+            "red_official_verify_type": 0,
+            "nickname": "摸鱼Cici",
+            "show_red_official_verify_icon": false,
+            "userid": "62662b69000000002102742e",
+            "track_duration": 0,
+            "fstatus": "none",
+            "name": "摸鱼Cici",
+            "followed": false,
+            "red_id": "2954786710"
+          },
+          "liked_count": 2501,
+          "has_co_produce": false,
+          "privacy": {
+            "type": 0,
+            "show_tips": false,
+            "nick_names": ""
+          },
+          "use_water_color": false,
+          "api_upgrade": -1,
+          "mini_program_info": {
+            "user_name": "gh_52be748ce5b7",
+            "path": "pages/main/home/index?redirect_path=%2Fpages%2Fmain%2Fnote%2Findex%3Fxsec_source%3Dapp_share%26id%3D690ad34a0000000004001e98%26type%3Dnormal%26xsec_token%3DCBDEUKBod8SBs8RzL1rU3yKYcGxouMiTVr6AEhYSXWdcI%3D",
+            "title": "@摸鱼Cici 发了一篇笔记，快点来看吧！",
+            "desc": "刚叫一个新员工过来问项目跟进情况，没说两句他Apple Watch就报警了[捂脸R] 他心理压力大不大我不知道，反正我心",
+            "webpage_url": "https://www.xiaohongshu.com/discovery/item/690ad34a0000000004001e98?xsec_source=app_share",
+            "thumb": "https://sns-na-i11.xhscdn.com/1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug?imageView2/2/w/540/format/jpg/q/75",
+            "share_title": "@摸鱼Cici 发了一篇笔记，快点来看吧！"
+          },
+          "share_code_flag": 0,
+          "media_save_config": {
+            "disable_watermark": false,
+            "disable_weibo_cover": false,
+            "disable_save": false
+          },
+          "note_text_press_options": [
+            {
+              "key": "copy",
+              "extra": ""
+            }
+          ],
+          "collected_count": 297,
+          "comments_count": 1226,
+          "qq_mini_program_info": {
+            "share_title": "@摸鱼Cici 发了一篇超赞的笔记，快点来看！",
+            "user_name": "gh_66c53d495417",
+            "path": "pages/main/note/index?xsec_source=app_share&id=690ad34a0000000004001e98&type=normal",
+            "title": "@摸鱼Cici 发了一篇超赞的笔记，快点来看！",
+            "desc": "刚叫一个新员工过来问项目跟进情况，没说两句他Apple Watch就报警了[捂脸R] 他心理压力大不大我不知道，反正我心",
+            "webpage_url": "https://www.xiaohongshu.com/discovery/item/690ad34a0000000004001e98?xsec_source=app_share",
+            "thumb": "https://sns-na-i11.xhscdn.com/1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug?imageView2/2/w/540/format/jpg/q/75"
+          },
+          "cooperate_binds": [],
+          "head_tags": [],
+          "feedback_info": {
+            "dislike_status": 0
+          },
+          "time": 1762317130,
+          "collected": false,
+          "enable_brand_lottery": false,
+          "title": "",
+          "enable_fls_related_cards": false,
+          "widgets_context": "{\"origin_video_key\":\"\",\"flags\":{},\"author_id\":\"62662b69000000002102742e\",\"author_name\":\"摸鱼Cici\",\"q_task_id\":\"\",\"video_rec_bar_info\":\"\"}",
+          "liked": false,
+          "seeded": false,
+          "has_music": false,
+          "seeded_count": 0,
+          "enable_fls_bridge_cards": false,
+          "ats": [],
+          "model_type": "note",
+          "type": "normal",
+          "shared_count": 5565,
+          "view_count": 0,
+          "images_list": [
+            {
+              "scale_to_large": 4,
+              "width": 1200,
+              "url": "https://sns-na-i11.xhscdn.com/1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug?imageView2/2/w/1440/format/heif/q/45&redImage/frame/0/reverse/1&ap=1&sc=DETAIL&sign=9c49765d2ea70fbf03b24c5139f81739&t=690b2941",
+              "original": "https://sns-na-i11.xhscdn.com/1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug?imageView2/2/w/5000/h/5000/format/webp/q/90&ap=1&sc=ORIGINAL&sign=9c49765d2ea70fbf03b24c5139f81739&t=690b2941",
+              "url_multi_level": {
+                "high": "https://sns-na-i11.xhscdn.com/1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug?imageView2/2/w/1440/format/heif/q/75&redImage/frame/0/reverse/1&ap=1&sc=DETAIL&sign=9c49765d2ea70fbf03b24c5139f81739&t=690b2941",
+                "low": "https://sns-na-i11.xhscdn.com/1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug?imageView2/2/w/1440/format/heif/q/75&redImage/frame/0/reverse/1&ap=1&sc=DETAIL&sign=9c49765d2ea70fbf03b24c5139f81739&t=690b2941",
+                "medium": "https://sns-na-i11.xhscdn.com/1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug?imageView2/2/w/1440/format/heif/q/75&redImage/frame/0/reverse/1&ap=1&sc=DETAIL&sign=9c49765d2ea70fbf03b24c5139f81739&t=690b2941"
+              },
+              "trace_id": "1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug",
+              "need_load_original_image": true,
+              "fileid": "1040g2sg31og8cqp15md05oj65dkoct1ehsr6oug",
+              "height": 1600,
+              "index": 0,
+              "longitude": 0,
+              "latitude": 0,
+              "text_intention": 0
+            }
+          ],
+          "need_next_step": false,
+          "countdown": 0,
+          "desc": "刚叫一个新员工过来问项目跟进情况，没说两句他Apple Watch就报警了[捂脸R]\n他心理压力大不大我不知道，反正我心理压力挺大的\n对话仓促终止后我又光速去他位置上安慰了下\n#年轻人整顿职场[话题]#",
+          "hash_tag": [
+            {
+              "bizId": "",
+              "id": "6429a7d6000000000d03c71d",
+              "name": "年轻人整顿职场",
+              "link": "xhsdiscover://rn/sns-discover/topic/normal?id=6429a7d68b47080001e6e645&page_source=note_feed.click_new_big",
+              "record_unit": "",
+              "current_score": 0,
+              "type": "topic",
+              "record_emoji": "",
+              "record_count": 0,
+              "tag_hint": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "message": null,
+  "recordTime": "2025-11-05T18:38:58.092288065"
+}

@@ -1,0 +1,210 @@
+//request:GET http://47.117.133.51:30015/api/xiaohongshu/get-user/v3?token=rrZQl9kQ&userId=636519f2000000001f019e57
+{
+  "_comment": {
+    "文件用途": "用户信息（User Info v3）响应样例，供字段映射与调试使用",
+    "重要字段": {
+      "code": "返回码。0 表示成功",
+      "data.userid": "用户唯一 ID",
+      "data.nickname": "昵称",
+      "data.images": "头像 URL",
+      "data.red_id": "小红书号",
+      "data.desc": "个人简介",
+      "data.note_num_stat": "笔记统计（posted/liked/collected）",
+      "data.interactions": "互动统计（follows/fans/获赞与收藏）",
+      "data.share_info_v2": "分享信息（title/content/link 等）"
+    },
+    "备注": "v3 与 v4 字段相近但结构略有差异；解析时请忽略 _comment 字段。"
+  },
+  "code": 0,
+  "data": {
+    "collected_brand_num": 0,
+    "real_name_info": "",
+    "fans": 58964,
+    "location": "",
+    "collected_notes_num": 0,
+    "collected_product_num": 0,
+    "collected_poi_num": 0,
+    "collected_movie_num": 0,
+    "tab_public": {
+      "seed": true,
+      "collection": false,
+      "collection_note": true,
+      "collection_board": true
+    },
+    "avatar_pendant": {
+      "pendant_id": "20164",
+      "pendant_name": "天使翅膀",
+      "icon": "https://growth-img.xhscdn.com/ditto/104100n0316eit3a80s06d0gfu8900000000000nl4ckkm",
+      "schema": "https://www.xiaohongshu.com/fe/redcity-ip-next/avatar?fullscreen=true&disableDragBack=yes&background_color=b7dff5&source=user_photo_obtain_decoration&decorationId=20164",
+      "current_user_pendant": false,
+      "current_user_pet": false
+    },
+    "result": {
+      "success": true,
+      "code": 0,
+      "message": "success"
+    },
+    "gender": 2,
+    "level": {
+      "number": 0,
+      "image_link": ""
+    },
+    "nboards": 0,
+    "identity_label_migrated": false,
+    "note_num_stat": {
+      "posted": 410,
+      "liked": 1176802,
+      "collected": 114682
+    },
+    "recommend_info": "",
+    "brand_account_info": {
+      "conversions": [
+        {
+          "link": "xhsdiscover://rn/cooper-center/anthor-cooperate/platform-introduct/kol/636519f2000000001f019e57",
+          "is_shop": false,
+          "is_red_shop": false,
+          "sub_title": "寻找商业合作",
+          "id": "17",
+          "name": "蒲公英合作",
+          "icon": "https://picasso-static.xiaohongshu.com/fe-platform/769ccf3653f2cfaf4c06cb4dce844602a0615e79.png"
+        },
+        {
+          "id": "108",
+          "name": "兴趣贴纸",
+          "icon": "https://picasso-static.xiaohongshu.com/fe-platform/e3753080341c774480ddf02ada568b7a16695f49.png",
+          "link": "xhsdiscover://rn/cny-2025-main/sticker_list?user_id=636519f2000000001f019e57&avatar=https%3A%2F%2Fsns-avatar-qc.xhscdn.com%2Favatar%2F63e88c892a8d49af27389548.jpg%3FimageView2%2F2%2Fw%2F360%2Fformat%2Fwebp&user_name=million%E9%85%B1&is_self=false",
+          "sub_title": "2张"
+        }
+      ]
+    },
+    "community_rule_url": "https://www.xiaohongshu.com/user/community-rule",
+    "ip_location": "山东",
+    "images": "https://sns-avatar-qc.xhscdn.com/avatar/63e88c892a8d49af27389548.jpg?imageView2/2/w/360/format/webp",
+    "collected": 114682,
+    "follows": 116,
+    "red_id": "million_123",
+    "user_widget_switch": false,
+    "user_desc_info": {
+      "desc": "🐱名字 ：million～ 也可以叫她百万\n🐱是一只甜美的银渐层妹妹！\n📮1983099124@🐧.com",
+      "desc_at_users": []
+    },
+    "banner_info": {
+      "image": "https://sns-avatar-qc.xhscdn.com/user_banner/a4c80ed7-ceaa-3f85-a941-31766bc80de2?imageView2/2/w/540/format/jpg&ap=28&sc=USR_BG&sign=963856654e60f994d6c1bbe0a4a0258f&t=690b18d8",
+      "bg_color": "8d7f70",
+      "like_status": false,
+      "edit_sticker": true
+    },
+    "desc_at_users": [],
+    "seller_info": {
+      "tab_goods_api_version": 1,
+      "tab_code_names": [],
+      "is_tab_goods_first": true
+    },
+    "red_club_info": {
+      "red_club_level": 0,
+      "red_club_url": "https://www.xiaohongshu.com/store/mc/landing",
+      "redclubscore": 0,
+      "red_club": false
+    },
+    "show_extra_info_button": false,
+    "share_info_v2": {
+      "title": "@million酱的个人主页",
+      "content": "粉丝: 5.9万\n获赞与收藏: 129.1万"
+    },
+    "interactions": [
+      {
+        "toast": "该用户已设置关注列表不可见",
+        "type": "follows",
+        "name": "关注",
+        "count": 116,
+        "is_private": true
+      },
+      {
+        "type": "fans",
+        "name": "粉丝",
+        "count": 58964,
+        "is_private": true,
+        "toast": "该用户已设置粉丝列表不可见"
+      },
+      {
+        "name": "获赞与收藏",
+        "count": 1291484,
+        "is_private": false,
+        "toast": "",
+        "type": "interaction"
+      }
+    ],
+    "hula_tabs": {
+      "all_show_tab_config": [
+        {
+          "tab_id": "note",
+          "tab_name": "笔记"
+        }
+      ],
+      "tab_id_selected": "note"
+    },
+    "real_name_deep_link": "xhsdiscover://rn/accounts/professional-detail?targetId=636519f2000000001f019e57",
+    "is_login_user_pro_account": false,
+    "tags": [
+      {
+        "name": "宠物博主",
+        "tag_type": "profession"
+      }
+    ],
+    "liked": 1176802,
+    "default_collection_tab": "note",
+    "blocking": false,
+    "red_official_verify_content": "",
+    "user_role_type": 6,
+    "ndiscovery": 410,
+    "tab_visible": {
+      "note": true,
+      "collect": false,
+      "like": false,
+      "seed": true
+    },
+    "recommend_info_icon": "",
+    "red_official_verify_type": 0,
+    "location_jump": false,
+    "collected_tags_num": 0,
+    "avatar_like_status": false,
+    "userid": "636519f2000000001f019e57",
+    "imageb": "https://sns-avatar-qc.xhscdn.com/avatar/63e88c892a8d49af27389548.jpg?imageView2/2/w/540/format/webp",
+    "fstatus": "none",
+    "share_link": "https://www.xiaohongshu.com/user/profile/636519f2000000001f019e57?xsec_token=YBzuazDaZ_JC4yIUa8lrKVYdayK6fdUVsibsQIXiWo2aY=&xsec_source=app_share",
+    "red_official_verified": false,
+    "blocked": false,
+    "zhong_tong_bar_info": {
+      "conversions": [
+        {
+          "id": "108",
+          "name": "兴趣贴纸",
+          "icon": "https://picasso-static.xiaohongshu.com/fe-platform/e3753080341c774480ddf02ada568b7a16695f49.png",
+          "link": "xhsdiscover://rn/cny-2025-main/sticker_list?user_id=636519f2000000001f019e57&avatar=https%3A%2F%2Fsns-avatar-qc.xhscdn.com%2Favatar%2F63e88c892a8d49af27389548.jpg%3FimageView2%2F2%2Fw%2F360%2Fformat%2Fwebp&user_name=million%E9%85%B1&is_self=false",
+          "sub_title": "2张"
+        },
+        {
+          "link": "xhsdiscover://rn/cooper-center/anthor-cooperate/platform-introduct/kol/636519f2000000001f019e57",
+          "sub_title": "寻找商业合作",
+          "id": "17",
+          "name": "蒲公英合作",
+          "icon": "https://picasso-static.xiaohongshu.com/fe-platform/769ccf3653f2cfaf4c06cb4dce844602a0615e79.png"
+        }
+      ]
+    },
+    "red_official_verify_base_info": "",
+    "desc": "🐱名字 ：million～ 也可以叫她百万\n🐱是一只甜美的银渐层妹妹！\n📮1983099124@🐧.com",
+    "nickname": "million酱",
+    "share_info": {
+      "content": "🐱名字 ：million～ 也可以叫她百万\n🐱是一只甜美的银渐层妹妹！\n📮1983099124@🐧.com",
+      "title": "million酱"
+    },
+    "is_recommend_level_illegal": false,
+    "real_name_deep_target": 0,
+    "collected_book_num": 0,
+    "identity_deeplink": "xhsdiscover://rn/app-settings/official/certification/details?type=2&user_id=636519f2000000001f019e57&is_mcn=false",
+    "remark_name": ""
+  },
+  "message": null,
+  "recordTime": "2025-11-05T17:28:56.946502943"
+}

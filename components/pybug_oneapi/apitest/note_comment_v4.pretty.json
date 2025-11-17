@@ -1,0 +1,464 @@
+//request:GET http://47.117.133.51:30015/api/xiaohongshu/get-note-comment/v4?token=rrZQl9kQ&noteId=67deef0a000000001e001660&cursor=&sortType=hot&first_comment_id=
+{
+  "_comment": {
+    "文件用途": "按笔记采集评论（Note Comment v4）响应样例，供字段映射与调试使用",
+    "重要字段": {
+      "code": "返回码。0 表示成功",
+      "data.comment_count/comment_count_l1": "评论总数/一级评论数",
+      "data.comments[]": "评论列表",
+      "comment.id": "评论ID",
+      "comment.user": "评论用户（user_id/nickname/images/red_id 等）",
+      "comment.content": "评论内容",
+      "comment.like_count/liked/status": "点赞数、是否点赞、状态",
+      "comment.sub_comment_count": "子评论数量",
+      "comment.sub_comments[]": "嵌套子评论（含 user、content、time 等）",
+      "comment.time": "毫秒级 Unix 时间戳（例如 1742976574000）",
+      "comment.comment_type": "评论类型"
+    },
+    "备注": "v4 的 time 为毫秒级；解析时请忽略 _comment 字段。"
+  },
+  "code": 0,
+  "data": {
+    "comment_count": 735,
+    "comment_count_l1": 643,
+    "comments": [
+      {
+        "liked": false,
+        "status": 0,
+        "user": {
+          "user_id": "5b88b234a76af2000100fb25",
+          "nickname": "用户已注销",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/645b7e4b86578b8c6ab3b056.jpg?imageView2/2/w/120/format/jpg",
+          "red_id": "294355065"
+        },
+        "id": "67e3b63e0000000012031b7e",
+        "note_id": "67deef0a000000001e001660",
+        "like_count": 0,
+        "sub_comments": [
+          {
+            "status": 0,
+            "time": 1742987692000,
+            "user": {
+              "user_id": "5fed7f31000000000100115e",
+              "nickname": "冰火娃向前冲",
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31djt5nmh0k605nvdfsog84autg24tlg?imageView2/2/w/120/format/jpg",
+              "red_id": "1102278698"
+            },
+            "comment_type": 0,
+            "note_id": "67deef0a000000001e001660",
+            "like_count": 0,
+            "at_users": [],
+            "liked": false,
+            "id": "67e3e1ab000000001e03b500",
+            "content": "但它的眼神充满了智慧[大笑R]"
+          }
+        ],
+        "time": 1742976574000,
+        "comment_type": 0,
+        "content": "虽然他有聪明毛，但看起来一点都不聪明，哈哈哈哈哈哈哈",
+        "at_users": [],
+        "sub_comment_count": 0
+      },
+      {
+        "user": {
+          "user_id": "61e93fc400000000100090c7",
+          "nickname": "在下小胡",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/63dea072955ccf02b20d5c70.jpg?imageView2/2/w/120/format/jpg",
+          "red_id": "2151195670"
+        },
+        "comment_type": 2,
+        "pictures": [
+          {
+            "box_w": 160,
+            "box_h": 120,
+            "file_id": "",
+            "width": 1440,
+            "height": 1080,
+            "url": "http://sns-na-i1.xhscdn.com/comment/1040g2h031fds3euv6o6g5of97v241467t9qhmbg?imageView2/2/h/360/format/webp",
+            "origin_url": "http://sns-na-i1.xhscdn.com/comment/1040g2h031fds3euv6o6g5of97v241467t9qhmbg?imageView2/2/h/1280/format/webp",
+            "meme_package": {
+              "image_url": "http://sns-img-qc.xhscdn.com/comment/1040g2h031fds3euv6o6g5of97v241467t9qhmbg?imageView2/2/w/1080/format/webp",
+              "height": 810,
+              "width": 1080
+            }
+          }
+        ],
+        "status": 0,
+        "time": 1742829495000,
+        "content": "[doge][流汗R][图片]",
+        "at_users": [],
+        "like_count": 0,
+        "liked": false,
+        "sub_comment_count": 0,
+        "sub_comments": [
+          {
+            "note_id": "67deef0a000000001e001660",
+            "at_users": [],
+            "liked": false,
+            "status": 0,
+            "time": 1742899686000,
+            "id": "67e289e50000000012023126",
+            "content": "娃爱学习[萌萌哒R]",
+            "like_count": 0,
+            "user": {
+              "user_id": "5f8c68860000000001001bab",
+              "nickname": "dulululu",
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/1000g2jo2khq2ol2jc0605nscd23086tbv2msog0?imageView2/2/w/120/format/jpg",
+              "red_id": "1049155245"
+            },
+            "comment_type": 0
+          }
+        ],
+        "id": "67e177b5000000001e0133f8",
+        "note_id": "67deef0a000000001e001660"
+      },
+      {
+        "sub_comment_count": 0,
+        "user": {
+          "user_id": "5ef0596000000000010070fc",
+          "nickname": "快乐萌宠",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31g7g63su1s5g5nngb5g08s7sdm3f0ug?imageView2/2/w/120/format/jpg",
+          "red_id": "782032617"
+        },
+        "id": "67fbc421000000001e03c47a",
+        "content": "找家长[飞吻R][图片]",
+        "at_users": [],
+        "like_count": 0,
+        "liked": false,
+        "status": 0,
+        "sub_comments": [
+          {
+            "id": "67fcc2cb000000001e0153b5",
+            "content": "你好 猫猫还在吗",
+            "at_users": [],
+            "like_count": 0,
+            "liked": false,
+            "status": 0,
+            "user": {
+              "nickname": "小气质",
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/59f57463b46c5d14110dcbc5.jpg?imageView2/2/w/120/format/jpg",
+              "red_id": "261561616",
+              "user_id": "59f5745011be10457bff8eef"
+            },
+            "note_id": "67deef0a000000001e001660",
+            "time": 1744618187000,
+            "comment_type": 0
+          }
+        ],
+        "time": 1744552995000,
+        "note_id": "67deef0a000000001e001660",
+        "pictures": [
+          {
+            "width": 1058,
+            "height": 1184,
+            "url": "http://sns-na-i1.xhscdn.com/comment/1040g2h031g7htvbnhu6g5nngb5g08s7skjevl20?imageView2/2/w/360/format/webp",
+            "origin_url": "http://sns-na-i1.xhscdn.com/comment/1040g2h031g7htvbnhu6g5nngb5g08s7skjevl20?imageView2/2/w/1280/format/webp",
+            "meme_package": {
+              "width": 965,
+              "image_url": "http://sns-img-qc.xhscdn.com/comment/1040g2h031g7htvbnhu6g5nngb5g08s7skjevl20?imageView2/2/h/1080/format/webp",
+              "height": 1080
+            },
+            "box_w": 120,
+            "box_h": 160,
+            "file_id": ""
+          }
+        ],
+        "comment_type": 2
+      },
+      {
+        "sub_comments": [
+          {
+            "content": "宝宝想要养猫吗？",
+            "time": 1749092554000,
+            "user": {
+              "user_id": "6728694d000000001c01bad4",
+              "nickname": "xiao欣",
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31f976of9ma005pp8d56n3emksevhd2g?imageView2/2/w/120/format/jpg",
+              "red_id": "95470124564"
+            },
+            "comment_type": 0,
+            "status": 0,
+            "id": "684108ca000000000103fb31",
+            "note_id": "67deef0a000000001e001660",
+            "at_users": [],
+            "like_count": 0,
+            "liked": false
+          }
+        ],
+        "note_id": "67deef0a000000001e001660",
+        "content": "拒绝不了，送过来吧[哇R]",
+        "liked": false,
+        "sub_comment_count": 0,
+        "time": 1742777224000,
+        "user": {
+          "user_id": "59a2312d6a6a691f57c221f4",
+          "nickname": "momo",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30pl9l7d46m0049oqffoiq8fklrlp448?imageView2/2/w/120/format/jpg",
+          "red_id": "115542219"
+        },
+        "comment_type": 0,
+        "id": "67e0ab87000000001200a9a1",
+        "at_users": [],
+        "like_count": 0,
+        "status": 0
+      },
+      {
+        "like_count": 0,
+        "liked": false,
+        "status": 0,
+        "sub_comment_count": 0,
+        "sub_comments": [
+          {
+            "status": 0,
+            "time": 1753674302000,
+            "user": {
+              "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31lhcpe8jlo605q2mbdi6r8po269ea58?imageView2/2/w/120/format/jpg",
+              "red_id": "27477539269",
+              "user_id": "68565b64000000001b01a338",
+              "nickname": "青儿"
+            },
+            "content": "他竟然还会笑，我家的不会笑",
+            "like_count": 0,
+            "liked": false,
+            "comment_type": 0,
+            "id": "6886f23e000000000102380b",
+            "note_id": "67deef0a000000001e001660",
+            "at_users": []
+          }
+        ],
+        "time": 1742885693000,
+        "pictures": [
+          {
+            "box_h": 120,
+            "file_id": "",
+            "width": 432,
+            "height": 432,
+            "url": "http://sns-na-i1.xhscdn.com/comment/1040g2h031femsv4vme6g5ohcmi2k0v5at2qjukg?imageView2/2/w/360/h/360/format/webp",
+            "origin_url": "http://sns-na-i1.xhscdn.com/comment/1040g2h031femsv4vme6g5ohcmi2k0v5at2qjukg?imageView2/2/w/1280/format/webp",
+            "meme_package": {
+              "height": 0,
+              "width": 0,
+              "meme_id": "136638356574256918"
+            },
+            "box_w": 120
+          }
+        ],
+        "at_users": [],
+        "note_id": "67deef0a000000001e001660",
+        "content": "[表情]",
+        "user": {
+          "user_id": "622cb4850000000010007caa",
+          "nickname": "呆小布",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31eik7lmcgu605ohcmi2k0v5ahs3taug?imageView2/2/w/120/format/jpg",
+          "red_id": "2128497651"
+        },
+        "comment_type": 3,
+        "id": "67e2533b000000001e0171f3"
+      },
+      {
+        "id": "690af931000000003800c19a",
+        "liked": false,
+        "sub_comment_count": 0,
+        "comment_type": 0,
+        "status": 0,
+        "sub_comments": [],
+        "time": 1762326834000,
+        "user": {
+          "user_id": "62367bf000000000100041ed",
+          "nickname": "空谷幽兰",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/62367bf000000000100041ed.jpg?imageView2/2/w/120/format/jpg",
+          "red_id": "2123470751"
+        },
+        "note_id": "67deef0a000000001e001660",
+        "content": "好可爱",
+        "at_users": [],
+        "like_count": 0,
+        "ip_location": "广东"
+      },
+      {
+        "sub_comments": [],
+        "comment_type": 0,
+        "id": "690af6510000000033021978",
+        "at_users": [],
+        "sub_comment_count": 0,
+        "liked": false,
+        "status": 0,
+        "time": 1762326098000,
+        "user": {
+          "red_id": "2624273200",
+          "user_id": "60eec0d7000000000100140e",
+          "nickname": "小咪吖",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ogcaa696g005o7eo3bg850e3uucbs8?imageView2/2/w/120/format/jpg"
+        },
+        "ip_location": "四川",
+        "note_id": "67deef0a000000001e001660",
+        "content": "拒绝不了一点",
+        "like_count": 0
+      },
+      {
+        "note_id": "67deef0a000000001e001660",
+        "at_users": [],
+        "like_count": 0,
+        "liked": false,
+        "status": 0,
+        "comment_type": 0,
+        "id": "690af5d7000000003900892a",
+        "content": "好可爱[色色R]",
+        "sub_comment_count": 0,
+        "sub_comments": [],
+        "time": 1762325976000,
+        "user": {
+          "user_id": "5e22dd510000000001006ca5",
+          "nickname": "爱吃fofofo",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ogcm0uu065g5nh2rl8g8r55a5p0rt0?imageView2/2/w/120/format/jpg",
+          "red_id": "758366077"
+        },
+        "ip_location": "江苏"
+      },
+      {
+        "status": 0,
+        "sub_comment_count": 0,
+        "sub_comments": [],
+        "time": 1762240367000,
+        "id": "6909a76f000000003902bff3",
+        "note_id": "67deef0a000000001e001660",
+        "content": "太可爱[飞吻R]",
+        "at_users": [],
+        "ip_location": "江苏",
+        "comment_type": 0,
+        "like_count": 0,
+        "liked": false,
+        "user": {
+          "user_id": "6905a15c0000000032024ba5",
+          "nickname": "小红薯6906E334",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/645b80521e6a57c3bdb8f301.jpg?imageView2/2/w/120/format/jpg",
+          "red_id": "94328879902"
+        }
+      },
+      {
+        "status": 0,
+        "user": {
+          "user_id": "5fc0c32000000000010046e8",
+          "nickname": "小红薯gg9",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31of0av4d58605nu0ocg08hn8qjb0pm8?imageView2/2/w/120/format/jpg",
+          "red_id": "1059618343"
+        },
+        "ip_location": "福建",
+        "id": "690989140000000037013b80",
+        "note_id": "67deef0a000000001e001660",
+        "content": "可爱",
+        "at_users": [],
+        "time": 1762232597000,
+        "comment_type": 0,
+        "like_count": 0,
+        "liked": false,
+        "sub_comment_count": 0,
+        "sub_comments": []
+      },
+      {
+        "like_count": 0,
+        "liked": false,
+        "sub_comments": [],
+        "time": 1762226886000,
+        "note_id": "67deef0a000000001e001660",
+        "content": "么么爱",
+        "status": 0,
+        "sub_comment_count": 0,
+        "user": {
+          "user_id": "6286898900000000210250d2",
+          "nickname": "小红薯6286ED30",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/cd255d0e201935e0d852bd371f18c198.jpg?imageView2/2/w/120/format/jpg",
+          "red_id": "1520009535"
+        },
+        "ip_location": "广东",
+        "comment_type": 0,
+        "id": "690972c60000000039031b18",
+        "at_users": []
+      },
+      {
+        "like_count": 0,
+        "sub_comment_count": 0,
+        "user": {
+          "user_id": "606c1801000000000100a8fb",
+          "nickname": "多多是只猫🐱",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31oelquuc4u005o3c300g9a7rj0s2jrg?imageView2/2/w/120/format/jpg",
+          "red_id": "9474040586"
+        },
+        "ip_location": "四川",
+        "note_id": "67deef0a000000001e001660",
+        "at_users": [],
+        "liked": false,
+        "status": 0,
+        "sub_comments": [],
+        "time": 1762211779000,
+        "comment_type": 0,
+        "id": "690937c20000000039021c98",
+        "content": "好可爱"
+      },
+      {
+        "content": "[得意R]",
+        "at_users": [],
+        "sub_comment_count": 0,
+        "ip_location": "广东",
+        "sub_comments": [],
+        "time": 1762168493000,
+        "user": {
+          "user_id": "687f55f1000000001d017870",
+          "nickname": "小红薯687F677A",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/645b65431e7abf18da7d1266.jpg?imageView2/2/w/120/format/jpg",
+          "red_id": "95500266773"
+        },
+        "id": "69088ead000000003803c272",
+        "note_id": "67deef0a000000001e001660",
+        "like_count": 0,
+        "liked": false,
+        "status": 0,
+        "comment_type": 0
+      },
+      {
+        "comment_type": 0,
+        "note_id": "67deef0a000000001e001660",
+        "like_count": 0,
+        "status": 0,
+        "time": 1762150164000,
+        "ip_location": "湖南",
+        "sub_comments": [],
+        "user": {
+          "user_id": "64ef62290000000005001d8c",
+          "nickname": "喜猫喜狗",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ob96tjv58005p7fc8kh87ccno9tbko?imageView2/2/w/120/format/jpg",
+          "red_id": "3556052536"
+        },
+        "id": "690847130000000039004227",
+        "content": "好憨憨[偷笑R]",
+        "at_users": [],
+        "liked": false,
+        "sub_comment_count": 0
+      },
+      {
+        "liked": false,
+        "comment_type": 0,
+        "note_id": "67deef0a000000001e001660",
+        "content": "哈。虎头虎脑的",
+        "at_users": [],
+        "like_count": 0,
+        "status": 0,
+        "sub_comment_count": 0,
+        "sub_comments": [],
+        "time": 1762146231000,
+        "id": "690837b6000000003901e55c",
+        "ip_location": "福建",
+        "user": {
+          "user_id": "5a091a2611be100bba913716",
+          "nickname": "琼琼jn7",
+          "images": "https://sns-avatar-qc.xhscdn.com/avatar/seller_68fcb0794d7e3c000191f153?imageView2/2/w/120/format/jpg",
+          "red_id": "268777447"
+        }
+      }
+    ],
+    "has_more": true,
+    "cursor": "690837b6000000003901e55c"
+  },
+  "message": null,
+  "recordTime": "2025-11-05T17:36:43.10930272"
+}

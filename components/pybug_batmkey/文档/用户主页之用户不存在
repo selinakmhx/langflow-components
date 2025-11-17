@@ -1,0 +1,49 @@
+{
+    "data": {
+        "community_rule_url": "https://www.xiaohongshu.com/user/community-rule",
+        "desc": "",
+        "fstatus": "",
+        "interactions": [
+            {
+                "count": 0,
+                "is_private": false,
+                "name": "关注",
+                "toast": "",
+                "type": "follows"
+            },
+            {
+                "count": 0,
+                "is_private": false,
+                "name": "粉丝",
+                "toast": "",
+                "type": "fans"
+            },
+            {
+                "count": 0,
+                "is_private": false,
+                "name": "获赞与收藏",
+                "toast": "",
+                "type": "interaction"
+            }
+        ],
+        "red_club_info": {
+            "red_club_url": "https://www.xiaohongshu.com/store/mc/landing"
+        },
+        "result": {
+            "code": -1,
+            "message": "can not find user with targetUserId ",
+            "success": false
+        },
+        "tab_public": {
+            "collection": true,
+            "collection_board": true,
+            "collection_note": true
+        },
+        "tab_visible": {
+            "collect": true,
+            "like": true,
+            "note": true
+        }
+    },
+    "status_code": 0
+}

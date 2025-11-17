@@ -1,0 +1,26 @@
+[QDRANT]            _                 _    
+[QDRANT]   __ _  __| |_ __ __ _ _ __ | |_  
+[QDRANT]  / _` |/ _` | '__/ _` | '_ \| __| 
+[QDRANT] | (_| | (_| | | | (_| | | | | |_  
+[QDRANT]  \__, |\__,_|_|  \__,_|_| |_|\__| 
+[QDRANT]     |_|                           
+[QDRANT] 
+[QDRANT] Version: 1.15.5, build: 48203e41
+[QDRANT] Access web UI at http://localhost:6333/dashboard
+[QDRANT] 
+[QDRANT] 2025-11-12T05:47:27.346901Z  WARN qdrant: There is a potential issue with the filesystem for storage path ./storage. Details: Container filesystem detected - storage might be lost with container re-creation
+[QDRANT] 2025-11-12T05:47:27.346978Z  INFO storage::content_manager::consensus::persistent: Initializing new raft state at ./storage/raft_state.json
+[QDRANT] 2025-11-12T05:47:27.355142Z  INFO qdrant: Distributed mode disabled
+[QDRANT] 2025-11-12T05:47:27.355210Z  INFO qdrant: Telemetry reporting enabled, id: f99114ae-c59d-4309-a529-160c7dac15ef
+[QDRANT] 2025-11-12T05:47:27.368244Z  INFO qdrant::actix: TLS disabled for REST API
+[QDRANT] 2025-11-12T05:47:27.368479Z  INFO qdrant::actix: Qdrant HTTP listening on 6333
+[QDRANT] 2025-11-12T05:47:27.368598Z  INFO actix_server::builder: starting 3 workers
+[QDRANT] 2025-11-12T05:47:27.368678Z  INFO actix_server::server: Actix runtime found; starting in Actix runtime
+[QDRANT] 2025-11-12T05:47:27.368764Z  INFO actix_server::server: starting service: "actix-web-service-0.0.0.0:6333", workers: 3, listening on: 0.0.0.0:6333
+[QDRANT] 2025-11-12T05:47:27.375317Z  INFO qdrant::tonic: Qdrant gRPC listening on 6334
+[QDRANT] 2025-11-12T05:47:27.375429Z  INFO qdrant::tonic: TLS disabled for gRPC API
+[QDRANT] 2025-11-12T05:47:37.559908Z  INFO actix_web::middleware::logger: 172.17.0.1 "GET /dashboard HTTP/1.1" 200 943 "-" "curl/8.7.1" 0.001425
+[QDRANT] 2025-11-12T05:47:37.805226Z  INFO actix_web::middleware::logger: 172.17.0.1 "GET /collections HTTP/1.1" 200 84 "-" "curl/8.7.1" 0.000259
+[QDRANT] 2025-11-12T05:47:44.533900Z  INFO actix_web::middleware::logger: 172.17.0.1 "GET /collections HTTP/1.1" 200 71 "-" "python-requests/2.32.3" 0.000832
+[QDRANT] 2025-11-12T05:48:29.158820Z  INFO actix_web::middleware::logger: 172.17.0.1 "GET /collections HTTP/1.1" 200 68 "-" "python-httpx/0.27.2" 0.000798
+[QDRANT] unexpected EOF

@@ -1,0 +1,214 @@
+{
+    "data": {
+        "atme_notes_num": 1,
+        "avatar_like_status": false,
+        "avatar_pendant": {
+            "current_user_pendant": false,
+            "current_user_pet": false
+        },
+        "banner_info": {
+            "bg_color": "74755e",
+            "image": "https://sns-avatar-qc.xhscdn.com/user_banner/570eeec7-f817-37f1-a298-bbf7b03b71e9?imageView2/2/w/540/format/jpg&ap=28&sc=USR_BG",
+            "like_status": false
+        },
+        "blocked": false,
+        "blocking": false,
+        "brand_account_info": {
+            "account_type_name": "企业账号",
+            "conversions": [
+                {
+                    "icon": "https://picasso-static.xiaohongshu.com/fe-platform/fb51da952d69f3cc44a174ff85dccfcf05341dd3.png",
+                    "id": "11",
+                    "is_red_shop": false,
+                    "is_shop": false,
+                    "link": "xhsdiscover://message/userPublicGroupList?user_id=610e28f30000000020029293&username=TA",
+                    "name": "Group chat",
+                    "sub_title": "View details"
+                },
+                {
+                    "icon": "https://picasso-static.xiaohongshu.com/fe-platform/de9fa827b1423a31cb5004d788da58fd2bc3720b.png",
+                    "id": "16",
+                    "is_red_shop": false,
+                    "is_shop": false,
+                    "link": "xhsdiscover://template?attach=%7B%22user_id%22%3A%22610e28f30000000020029293%22%7D&config=%7B%22show_template_library_entry%22%3Atrue%7D&page_type=template_list&source=%7B%22extraInfo%22%3A%7B%22subType%22%3A%22inspiration%22%2C%22page_entance_type%22%3A%22personal_page%22%2C%22track_id%22%3A%22610e28f30000000020029293%22%7D%2C%22type%22%3A%22inspiration%22%7D",
+                    "name": "模板作品",
+                    "sub_title": "和 ta 用同款"
+                }
+            ],
+            "trade_type_first_name": ""
+        },
+        "collected": 164931,
+        "collected_book_num": 0,
+        "collected_brand_num": 0,
+        "collected_movie_num": 0,
+        "collected_notes_num": 181,
+        "collected_poi_num": 0,
+        "collected_product_num": 0,
+        "collected_tags_num": 0,
+        "community_rule_url": "https://www.xiaohongshu.com/user/community-rule",
+        "default_collection_tab": "note",
+        "desc": "红薯地摄影扛把子\n记录渺小就是见证伟大",
+        "desc_at_users": [],
+        "fans": 360599,
+        "follows": 76,
+        "fstatus": "none",
+        "gender": 2,
+        "hula_tabs": {
+            "all_show_tab_config": [
+                {
+                    "tab_id": "note",
+                    "tab_name": "Notes"
+                },
+                {
+                    "is_show_lock": false,
+                    "tab_id": "collect",
+                    "tab_name": "Saves"
+                }
+            ],
+            "tab_id_selected": "note"
+        },
+        "identity_deeplink": "xhsdiscover://rn/app-settings/official/certification/details?type=2&user_id=610e28f30000000020029293&is_mcn=false",
+        "identity_label_migrated": false,
+        "imageb": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gihfpkok2005o8e53po54kj300vbno?imageView2/2/w/540/format/webp",
+        "images": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31gihfpkok2005o8e53po54kj300vbno?imageView2/2/w/360/format/webp",
+        "interactions": [
+            {
+                "count": 76,
+                "is_private": true,
+                "name": "Following",
+                "toast": "Following list is invisible",
+                "type": "follows"
+            },
+            {
+                "count": 360599,
+                "is_private": false,
+                "name": "Followers",
+                "toast": "",
+                "type": "fans"
+            },
+            {
+                "count": 763842,
+                "is_private": false,
+                "name": "Likes & Collects",
+                "toast": "",
+                "type": "interaction"
+            }
+        ],
+        "ip_location": "Shanghai",
+        "is_login_user_pro_account": false,
+        "is_recommend_level_illegal": false,
+        "level": {
+            "image": "",
+            "image_link": "",
+            "level_name": ""
+        },
+        "liked": 598911,
+        "location": "",
+        "location_jump": false,
+        "nboards": 1,
+        "ndiscovery": 495,
+        "nickname": "摄影薯",
+        "note_num_stat": {
+            "collected": 164931,
+            "liked": 598911,
+            "posted": 495
+        },
+        "real_name_deep_link": "xhsdiscover://rn/accounts/professional-detail?targetId=610e28f30000000020029293",
+        "real_name_deep_target": 0,
+        "real_name_info": "",
+        "recommend_info": "",
+        "recommend_info_icon": "",
+        "red_club_info": {
+            "red_club_url": "https://www.xiaohongshu.com/store/mc/landing"
+        },
+        "red_id": "4968061150",
+        "red_official_full_name": "offlineMockCompanyName",
+        "red_official_verified": false,
+        "red_official_verify_arrow": 0,
+        "red_official_verify_content": "官方账号",
+        "red_official_verify_type": 2,
+        "remark_name": "",
+        "result": {
+            "code": 0,
+            "message": "success",
+            "success": true
+        },
+        "seller_info": {
+            "is_tab_goods_first": true,
+            "tab_code_names": [],
+            "tab_goods_api_version": 1
+        },
+        "share_info": {
+            "content": "红薯地摄影扛把子\n记录渺小就是见证伟大",
+            "title": "摄影薯"
+        },
+        "share_info_v2": {
+            "content": "Followers: 360.6k\nLikes&Col: 763.8k",
+            "title": "@摄影薯‘s profile"
+        },
+        "share_link": "https://www.xiaohongshu.com/user/profile/610e28f30000000020029293?xsec_token=YB6WohDWuVmU0zHbquVyPHysqaMuivgdgkAnez-evKHZo=&xsec_source=app_share",
+        "show_extra_info_button": false,
+        "show_red_official_verify_icon": false,
+        "tab_public": {
+            "collection": true,
+            "collection_board": true,
+            "collection_note": true,
+            "seed": true
+        },
+        "tab_visible": {
+            "collect": true,
+            "hotel": false,
+            "like": false,
+            "note": true,
+            "seed": true
+        },
+        "tags": [],
+        "user_desc_info": {
+            "button": {
+                "original": {
+                    "button_content": "Translate",
+                    "translation_strategy": 1
+                },
+                "replace": {
+                    "button_content": "See original",
+                    "translation_strategy": 3
+                }
+            },
+            "desc": "红薯地摄影扛把子\n记录渺小就是见证伟大",
+            "desc_at_users": [],
+            "trans_api_param": {
+                "biz_id": "user_profile_610e28f30000000020029293",
+                "biz_type": "user_profile",
+                "text_inputs": [
+                    {
+                        "content": "红薯地摄影扛把子\n记录渺小就是见证伟大",
+                        "key": "desc"
+                    }
+                ]
+            },
+            "translation_desc": "Sweet Potato Field Photography Ace\nRecording the Small Is Witnessing the Great"
+        },
+        "user_role_type": 4,
+        "user_widget_switch": false,
+        "userid": "610e28f30000000020029293",
+        "zhong_tong_bar_info": {
+            "conversions": [
+                {
+                    "icon": "https://picasso-static.xiaohongshu.com/fe-platform/de9fa827b1423a31cb5004d788da58fd2bc3720b.png",
+                    "id": "16",
+                    "link": "xhsdiscover://template?attach=%7B%22user_id%22%3A%22610e28f30000000020029293%22%7D&config=%7B%22show_template_library_entry%22%3Atrue%7D&page_type=template_list&source=%7B%22extraInfo%22%3A%7B%22subType%22%3A%22inspiration%22%2C%22page_entance_type%22%3A%22personal_page%22%2C%22track_id%22%3A%22610e28f30000000020029293%22%7D%2C%22type%22%3A%22inspiration%22%7D",
+                    "name": "模板作品",
+                    "sub_title": "和 ta 用同款"
+                },
+                {
+                    "icon": "https://picasso-static.xiaohongshu.com/fe-platform/fb51da952d69f3cc44a174ff85dccfcf05341dd3.png",
+                    "id": "11",
+                    "link": "xhsdiscover://message/userPublicGroupList?user_id=610e28f30000000020029293&username=TA",
+                    "name": "Group chat",
+                    "sub_title": "View details"
+                }
+            ]
+        }
+    },
+    "status_code": 0
+}

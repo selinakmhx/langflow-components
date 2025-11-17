@@ -1,0 +1,10 @@
+version: "2"
+authtoken: 34gs7bCfkpvDZPNPzl3v9MHYR8j_6CckFoBtC9ktJH9Tuu7dC
+tunnels:
+  qdrant:
+    proto: http
+    addr: 6333
+    # 限制仅提供 http（80端口）访问，避免 Python requests 在 https/HTTP2 下出现 SSL EOF 错误
+    schemes: [http]
+    # 重写 Host 头为本地，确保转发到容器内 Qdrant 正常处理
+    host_header: rewrite
